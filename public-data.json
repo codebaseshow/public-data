@@ -1,0 +1,1576 @@
+{
+  "projects": [
+    {
+      "createdAt": "2021-02-13T00:30:06.005Z",
+      "updatedAt": "2021-04-20T00:48:20.692Z",
+      "slug": "realworld",
+      "name": "RealWorld Example Apps",
+      "description": "A Medium.com clone.",
+      "headline": "The mother of all demo apps",
+      "subheading": "See how the exact same application is built using different libraries and frameworks.",
+      "logo": {
+        "normalURL": "/realworld-logo-dark-mode-20201201.immutable.png",
+        "narrowURL": "/realworld-logo-narrow-dark-mode-20201209.immutable.png",
+        "height": 42,
+        "offsetY": -5
+      },
+      "screenshot": {
+        "normalURL": "/conduit-screenshot-20210210.immutable.png",
+        "height": 175
+      },
+      "websiteURL": "https://realworld.io/",
+      "createURL": "https://github.com/gothinkster/realworld/tree/master/spec",
+      "demoURL": "https://demo.realworld.io/",
+      "repositoryURL": "https://github.com/gothinkster/realworld",
+      "categories": [
+        "frontend",
+        "backend",
+        "fullstack"
+      ],
+      "implementations": [
+        {
+          "createdAt": "2020-12-07T06:10:55.682Z",
+          "updatedAt": "2021-04-20T14:45:16.336Z",
+          "repositoryURL": "https://github.com/gothinkster/node-express-realworld-example-app",
+          "category": "backend",
+          "language": "JavaScript",
+          "libraries": [
+            "Express",
+            "Mongoose"
+          ],
+          "numberOfStars": 2999,
+          "markedAsUnmaintainedOn": "2021-02-24T07:48:12.973Z"
+        },
+        {
+          "createdAt": "2020-12-07T06:12:07.955Z",
+          "updatedAt": "2021-04-20T14:45:16.944Z",
+          "repositoryURL": "https://github.com/gothinkster/golang-gin-realworld-example-app",
+          "category": "backend",
+          "language": "Go",
+          "libraries": [
+            "Gin"
+          ],
+          "numberOfStars": 1519
+        },
+        {
+          "createdAt": "2020-12-07T06:17:17.130Z",
+          "updatedAt": "2021-04-20T15:45:16.314Z",
+          "repositoryURL": "https://github.com/lujakob/nestjs-realworld-example-app",
+          "category": "backend",
+          "language": "TypeScript",
+          "libraries": [
+            "NestJS",
+            "TypeORM"
+          ],
+          "numberOfStars": 1475
+        },
+        {
+          "createdAt": "2020-12-07T06:13:25.599Z",
+          "updatedAt": "2021-04-20T14:45:17.125Z",
+          "repositoryURL": "https://github.com/gothinkster/aspnetcore-realworld-example-app",
+          "category": "backend",
+          "language": "C#",
+          "libraries": [
+            "ASP.NET Core"
+          ],
+          "numberOfStars": 1354
+        },
+        {
+          "createdAt": "2020-12-07T06:21:52.621Z",
+          "updatedAt": "2021-04-20T15:45:16.882Z",
+          "repositoryURL": "https://github.com/gothinkster/django-realworld-example-app",
+          "category": "backend",
+          "language": "Python",
+          "libraries": [
+            "Django"
+          ],
+          "numberOfStars": 1251
+        },
+        {
+          "createdAt": "2021-02-17T00:58:48.160Z",
+          "updatedAt": "2021-04-20T17:45:18.448Z",
+          "repositoryURL": "https://github.com/nsidnev/fastapi-realworld-example-app",
+          "category": "backend",
+          "language": "Python",
+          "libraries": [
+            "FastAPI"
+          ],
+          "numberOfStars": 1006
+        },
+        {
+          "createdAt": "2020-12-07T06:22:52.093Z",
+          "updatedAt": "2021-04-20T15:45:17.094Z",
+          "repositoryURL": "https://github.com/gothinkster/laravel-realworld-example-app",
+          "category": "backend",
+          "language": "PHP",
+          "libraries": [
+            "Laravel"
+          ],
+          "numberOfStars": 968,
+          "markedAsUnmaintainedOn": "2021-03-09T23:01:25.730Z"
+        },
+        {
+          "createdAt": "2020-12-07T06:25:56.932Z",
+          "updatedAt": "2021-04-20T15:45:17.779Z",
+          "repositoryURL": "https://github.com/gothinkster/elixir-phoenix-realworld-example-app",
+          "category": "backend",
+          "language": "Elixir",
+          "libraries": [
+            "Phoenix"
+          ],
+          "numberOfStars": 780
+        },
+        {
+          "createdAt": "2020-12-07T06:28:10.414Z",
+          "updatedAt": "2021-04-20T16:45:16.861Z",
+          "repositoryURL": "https://github.com/gothinkster/spring-boot-realworld-example-app",
+          "category": "backend",
+          "language": "Java",
+          "libraries": [
+            "Spring Boot",
+            "MyBatis"
+          ],
+          "numberOfStars": 740
+        },
+        {
+          "createdAt": "2020-12-07T06:26:45.093Z",
+          "updatedAt": "2021-04-20T16:45:16.662Z",
+          "repositoryURL": "https://github.com/gothinkster/flask-realworld-example-app",
+          "category": "backend",
+          "language": "Python",
+          "libraries": [
+            "Flask"
+          ],
+          "numberOfStars": 696
+        },
+        {
+          "createdAt": "2020-12-07T06:30:30.589Z",
+          "updatedAt": "2021-04-20T16:45:17.562Z",
+          "repositoryURL": "https://github.com/TatriX/realworld-rust-rocket",
+          "category": "backend",
+          "language": "Rust",
+          "libraries": [
+            "Rocket"
+          ],
+          "numberOfStars": 439
+        },
+        {
+          "createdAt": "2020-12-07T06:28:42.290Z",
+          "updatedAt": "2021-04-20T16:45:17.035Z",
+          "repositoryURL": "https://github.com/gothinkster/rails-realworld-example-app",
+          "category": "backend",
+          "language": "Ruby",
+          "libraries": [
+            "Ruby on Rails"
+          ],
+          "numberOfStars": 387
+        },
+        {
+          "createdAt": "2020-12-07T06:29:39.148Z",
+          "updatedAt": "2021-04-20T16:45:17.394Z",
+          "repositoryURL": "https://github.com/gothinkster/slim-php-realworld-example-app",
+          "category": "backend",
+          "language": "PHP",
+          "libraries": [
+            "Slim"
+          ],
+          "numberOfStars": 372
+        },
+        {
+          "createdAt": "2020-12-07T06:32:37.632Z",
+          "updatedAt": "2021-04-20T18:45:16.540Z",
+          "repositoryURL": "https://github.com/gothinkster/kotlin-spring-realworld-example-app",
+          "category": "backend",
+          "language": "Kotlin",
+          "libraries": [
+            "Spring Boot"
+          ],
+          "numberOfStars": 330
+        },
+        {
+          "createdAt": "2020-12-07T06:39:55.019Z",
+          "updatedAt": "2021-04-20T18:45:17.062Z",
+          "repositoryURL": "https://github.com/xesina/golang-echo-realworld-example-app",
+          "category": "backend",
+          "language": "Go",
+          "libraries": [
+            "Echo"
+          ],
+          "numberOfStars": 322
+        },
+        {
+          "createdAt": "2020-12-07T06:36:54.411Z",
+          "updatedAt": "2021-04-20T18:45:16.851Z",
+          "repositoryURL": "https://github.com/err0r500/go-realworld-clean",
+          "category": "backend",
+          "language": "Go",
+          "libraries": [
+            "Clean architecture"
+          ],
+          "numberOfStars": 315
+        },
+        {
+          "createdAt": "2020-12-07T06:40:59.366Z",
+          "updatedAt": "2021-04-20T19:45:16.862Z",
+          "repositoryURL": "https://github.com/gothinkster/koa-knex-realworld-example",
+          "category": "backend",
+          "language": "JavaScript",
+          "libraries": [
+            "Koa",
+            "Knex.js"
+          ],
+          "numberOfStars": 221
+        },
+        {
+          "createdAt": "2020-12-07T06:43:54.280Z",
+          "updatedAt": "2021-04-20T19:45:17.049Z",
+          "repositoryURL": "https://github.com/furkan3ayraktar/clojure-polylith-realworld-example-app",
+          "category": "backend",
+          "language": "Clojure",
+          "libraries": [
+            "Polylith",
+            "Ring"
+          ],
+          "numberOfStars": 214
+        },
+        {
+          "createdAt": "2020-12-07T06:44:57.755Z",
+          "updatedAt": "2021-04-20T21:45:16.500Z",
+          "repositoryURL": "https://github.com/anishkny/realworld-dynamodb-lambda",
+          "category": "backend",
+          "language": "JavaScript",
+          "libraries": [
+            "AWS Lambda",
+            "AWS DynamoDB"
+          ],
+          "numberOfStars": 192
+        },
+        {
+          "createdAt": "2020-12-07T06:45:44.820Z",
+          "updatedAt": "2021-04-20T21:45:16.685Z",
+          "repositoryURL": "https://github.com/tzemanovic/haskell-yesod-realworld-example-app",
+          "category": "backend",
+          "language": "Haskell",
+          "libraries": [
+            "Yesod"
+          ],
+          "numberOfStars": 137
+        },
+        {
+          "createdAt": "2020-12-07T06:46:22.674Z",
+          "updatedAt": "2021-04-20T21:45:16.857Z",
+          "repositoryURL": "https://github.com/gothinkster/scala-play-realworld-example-app",
+          "category": "backend",
+          "language": "Scala",
+          "libraries": [
+            "Play Framework"
+          ],
+          "numberOfStars": 128
+        },
+        {
+          "createdAt": "2020-12-07T06:48:48.017Z",
+          "updatedAt": "2021-04-20T23:45:16.320Z",
+          "repositoryURL": "https://github.com/gothinkster/gcp-datastore-cloud-functions-realworld-example-app",
+          "category": "backend",
+          "language": "JavaScript",
+          "libraries": [
+            "Google Cloud Functions",
+            "Google Cloud Datastore"
+          ],
+          "numberOfStars": 124
+        },
+        {
+          "createdAt": "2020-12-07T06:50:49.421Z",
+          "updatedAt": "2021-04-20T23:45:16.882Z",
+          "repositoryURL": "https://github.com/dnikolovv/dev-adventures-realworld",
+          "category": "backend",
+          "language": "C#",
+          "libraries": [
+            "ASP.NET Core"
+          ],
+          "numberOfStars": 117
+        },
+        {
+          "createdAt": "2020-12-07T06:49:26.345Z",
+          "updatedAt": "2021-04-20T23:45:16.511Z",
+          "repositoryURL": "https://github.com/gothinkster/cakephp-realworld-example-app",
+          "category": "backend",
+          "language": "PHP",
+          "libraries": [
+            "CakePHP"
+          ],
+          "numberOfStars": 103
+        },
+        {
+          "createdAt": "2020-12-07T06:55:43.733Z",
+          "updatedAt": "2021-04-20T02:45:16.827Z",
+          "repositoryURL": "https://github.com/Rudge/kotlin-javalin-realworld-example-app",
+          "category": "backend",
+          "language": "Kotlin",
+          "libraries": [
+            "Javalin",
+            "Koin",
+            "Exposed"
+          ],
+          "numberOfStars": 101
+        },
+        {
+          "createdAt": "2020-12-07T06:54:10.133Z",
+          "updatedAt": "2021-04-20T23:45:17.053Z",
+          "repositoryURL": "https://github.com/gothinkster/moleculer-node-realworld-example-app",
+          "category": "backend",
+          "language": "JavaScript",
+          "libraries": [
+            "Moleculer"
+          ],
+          "numberOfStars": 93
+        },
+        {
+          "createdAt": "2020-12-07T06:56:33.062Z",
+          "updatedAt": "2021-04-20T03:45:16.328Z",
+          "repositoryURL": "https://github.com/gothinkster/fsharp-realworld-example-app",
+          "category": "backend",
+          "language": "F#",
+          "libraries": [
+            "Suave"
+          ],
+          "numberOfStars": 80
+        },
+        {
+          "createdAt": "2020-12-07T06:59:02.527Z",
+          "updatedAt": "2021-04-20T04:45:16.972Z",
+          "repositoryURL": "https://github.com/diegocamara/realworld-api-quarkus",
+          "category": "backend",
+          "language": "Java",
+          "libraries": [
+            "Quarkus"
+          ],
+          "numberOfStars": 79
+        },
+        {
+          "createdAt": "2020-12-07T06:57:16.786Z",
+          "updatedAt": "2021-04-20T03:45:17.235Z",
+          "repositoryURL": "https://github.com/gothinkster/hapijs-realworld-example-app",
+          "category": "backend",
+          "language": "JavaScript",
+          "libraries": [
+            "Hapi",
+            "Mongoose"
+          ],
+          "numberOfStars": 70
+        },
+        {
+          "createdAt": "2020-12-07T07:02:30.404Z",
+          "updatedAt": "2021-04-20T05:45:16.748Z",
+          "repositoryURL": "https://github.com/dragneelfps/realworld-kotlin-ktor",
+          "category": "backend",
+          "language": "Kotlin",
+          "libraries": [
+            "Ktor"
+          ],
+          "numberOfStars": 58
+        },
+        {
+          "createdAt": "2020-12-07T06:58:15.833Z",
+          "updatedAt": "2021-04-20T04:45:16.586Z",
+          "repositoryURL": "https://github.com/alisabzevari/kotlin-http4k-realworld-example-app",
+          "category": "backend",
+          "language": "Kotlin",
+          "libraries": [
+            "http4k"
+          ],
+          "numberOfStars": 57
+        },
+        {
+          "createdAt": "2020-12-07T07:00:28.332Z",
+          "updatedAt": "2021-04-20T04:45:17.139Z",
+          "repositoryURL": "https://github.com/devinivy/hapipal-realworld-example-app",
+          "category": "backend",
+          "language": "JavaScript",
+          "libraries": [
+            "hapi pal"
+          ],
+          "numberOfStars": 47
+        },
+        {
+          "createdAt": "2020-12-07T07:01:20.257Z",
+          "updatedAt": "2021-04-20T05:45:16.563Z",
+          "repositoryURL": "https://github.com/tanem/express-bookshelf-realworld-example-app",
+          "category": "backend",
+          "language": "JavaScript",
+          "libraries": [
+            "Express",
+            "Bookshelf"
+          ],
+          "numberOfStars": 46
+        },
+        {
+          "createdAt": "2020-12-07T07:04:03.171Z",
+          "updatedAt": "2021-04-20T05:45:17.084Z",
+          "repositoryURL": "https://github.com/vladfaust/crystalworld",
+          "category": "backend",
+          "language": "Crystal",
+          "libraries": [
+            "Onyx"
+          ],
+          "numberOfStars": 36
+        },
+        {
+          "createdAt": "2020-12-07T07:09:40.247Z",
+          "updatedAt": "2021-04-20T06:45:17.429Z",
+          "repositoryURL": "https://github.com/chrisxue815/realworld-aws-lambda-dynamodb-go",
+          "category": "backend",
+          "language": "Go",
+          "libraries": [
+            "AWS Lambda",
+            "AWS DynamoDB"
+          ],
+          "numberOfStars": 30
+        },
+        {
+          "createdAt": "2021-04-16T14:58:18.214Z",
+          "updatedAt": "2021-04-20T06:45:17.258Z",
+          "repositoryURL": "https://github.com/Utwo/adonis-realworld-example-app",
+          "category": "backend",
+          "language": "JavaScript",
+          "libraries": [
+            "Adonis"
+          ],
+          "numberOfStars": 26
+        },
+        {
+          "createdAt": "2020-12-07T07:07:35.544Z",
+          "updatedAt": "2021-04-20T06:45:16.505Z",
+          "repositoryURL": "https://github.com/randyscotsmithey/feathers-realworld-example-app",
+          "category": "backend",
+          "language": "JavaScript",
+          "libraries": [
+            "Feathers"
+          ],
+          "numberOfStars": 25
+        },
+        {
+          "createdAt": "2020-12-07T07:06:07.457Z",
+          "updatedAt": "2021-04-20T05:45:17.258Z",
+          "repositoryURL": "https://github.com/schoolhouse-io/colmena-realworld-example-app",
+          "category": "backend",
+          "language": "Ruby",
+          "libraries": [
+            "Colmena architecture"
+          ],
+          "numberOfStars": 23
+        },
+        {
+          "createdAt": "2021-01-22T23:29:02.188Z",
+          "updatedAt": "2021-04-20T08:45:17.093Z",
+          "repositoryURL": "https://github.com/niteoweb/pyramid-realworld-example-app",
+          "category": "backend",
+          "language": "Python",
+          "libraries": [
+            "Pyramid"
+          ],
+          "numberOfStars": 22
+        },
+        {
+          "createdAt": "2020-12-07T07:07:04.660Z",
+          "updatedAt": "2021-04-20T05:45:17.430Z",
+          "repositoryURL": "https://github.com/1984weed/akka-http-realworld-example",
+          "category": "backend",
+          "language": "Scala",
+          "libraries": [
+            "Akka HTTP"
+          ],
+          "numberOfStars": 20
+        },
+        {
+          "createdAt": "2020-12-07T07:08:50.644Z",
+          "updatedAt": "2021-04-20T06:45:17.065Z",
+          "repositoryURL": "https://github.com/gothinkster/QEWD-realworld-example-app",
+          "category": "backend",
+          "language": "JavaScript",
+          "libraries": [
+            "QEWD.js"
+          ],
+          "numberOfStars": 20
+        },
+        {
+          "createdAt": "2021-01-26T22:49:53.836Z",
+          "updatedAt": "2021-04-20T06:45:16.886Z",
+          "repositoryURL": "https://github.com/eflem00/koa-boilerplate",
+          "category": "backend",
+          "language": "TypeScript",
+          "libraries": [
+            "Koa",
+            "TypeORM"
+          ],
+          "numberOfStars": 12
+        },
+        {
+          "createdAt": "2021-02-16T23:32:30.429Z",
+          "updatedAt": "2021-04-20T15:45:16.491Z",
+          "repositoryURL": "https://github.com/raahii/golang-grpc-realworld-example",
+          "category": "backend",
+          "language": "Go",
+          "libraries": [
+            "Echo"
+          ],
+          "numberOfStars": 9
+        },
+        {
+          "createdAt": "2021-01-25T22:29:47.248Z",
+          "updatedAt": "2021-04-20T03:45:16.866Z",
+          "repositoryURL": "https://github.com/neo4j-examples/nestjs-neo4j-realworld-example",
+          "category": "backend",
+          "language": "TypeScript",
+          "libraries": [
+            "Neo4j",
+            "NestJS"
+          ],
+          "numberOfStars": 9
+        },
+        {
+          "createdAt": "2021-01-24T00:20:41.376Z",
+          "updatedAt": "2021-04-20T14:45:16.535Z",
+          "repositoryURL": "https://github.com/vaibhavmule/masonite-realworld-example-app",
+          "category": "backend",
+          "language": "Python",
+          "libraries": [
+            "Masonite"
+          ],
+          "numberOfStars": 7
+        },
+        {
+          "createdAt": "2020-12-08T08:54:05.633Z",
+          "updatedAt": "2021-04-20T07:45:16.911Z",
+          "repositoryURL": "https://github.com/blrB/hanami-realworld-example-app",
+          "category": "backend",
+          "language": "Ruby",
+          "libraries": [
+            "Hanami"
+          ],
+          "numberOfStars": 5
+        },
+        {
+          "createdAt": "2021-01-25T08:16:31.251Z",
+          "updatedAt": "2021-04-20T08:45:17.464Z",
+          "repositoryURL": "https://github.com/alexey-lapin/realworld-backend-micronaut",
+          "category": "backend",
+          "language": "Java",
+          "libraries": [
+            "Micronaut"
+          ],
+          "numberOfStars": 4
+        },
+        {
+          "createdAt": "2021-01-25T22:52:28.686Z",
+          "updatedAt": "2021-04-20T03:45:17.058Z",
+          "repositoryURL": "https://github.com/daimor/realworld-intersystems-iris",
+          "category": "backend",
+          "language": "ObjectScript",
+          "libraries": [
+            "InterSystems IRIS"
+          ],
+          "numberOfStars": 3
+        },
+        {
+          "createdAt": "2020-12-07T07:11:56.811Z",
+          "updatedAt": "2021-04-20T07:45:16.501Z",
+          "repositoryURL": "https://github.com/spincast/spincast-realworld",
+          "category": "backend",
+          "language": "Java",
+          "libraries": [
+            "Spincast"
+          ],
+          "numberOfStars": 3
+        },
+        {
+          "createdAt": "2021-03-10T03:10:01.914Z",
+          "updatedAt": "2021-04-20T17:45:19.043Z",
+          "repositoryURL": "https://github.com/formoon/realworld-oatpp",
+          "category": "backend",
+          "language": "C++",
+          "libraries": [
+            "Oat++"
+          ],
+          "numberOfStars": 2
+        },
+        {
+          "createdAt": "2021-03-04T19:12:06.830Z",
+          "updatedAt": "2021-04-20T12:45:16.963Z",
+          "repositoryURL": "https://github.com/Varun-Hegde/Conduit_NodeJS",
+          "category": "backend",
+          "language": "JavaScript",
+          "libraries": [
+            "Express",
+            "Sequelize"
+          ],
+          "numberOfStars": 1
+        },
+        {
+          "createdAt": "2021-02-22T19:32:41.833Z",
+          "updatedAt": "2021-04-20T17:45:17.984Z",
+          "repositoryURL": "https://github.com/OpenLiberty/openliberty-realworld-example-app",
+          "category": "backend",
+          "language": "Java",
+          "libraries": [
+            "MicroProfile",
+            "OpenLiberty"
+          ],
+          "numberOfStars": 0
+        },
+        {
+          "createdAt": "2021-04-16T20:12:33.161Z",
+          "updatedAt": "2021-04-20T11:45:17.281Z",
+          "repositoryURL": "https://github.com/jsBlackBelt/microservices-realworld-app",
+          "category": "backend",
+          "language": "JavaScript",
+          "libraries": [
+            "NestJS",
+            "microservices",
+            "Nx",
+            "GraphQL"
+          ],
+          "numberOfStars": 0
+        },
+        {
+          "createdAt": "2021-04-20T02:52:37.278Z",
+          "updatedAt": "2021-04-20T05:36:22.911Z",
+          "repositoryURL": "https://github.com/AndierZ/conduit",
+          "category": "backend",
+          "language": "Java",
+          "libraries": [
+            "Vert.x",
+            "Reactive Java",
+            "MongoDB"
+          ],
+          "numberOfStars": 0
+        },
+        {
+          "createdAt": "2021-03-10T03:11:01.090Z",
+          "updatedAt": "2021-04-20T18:45:16.331Z",
+          "repositoryURL": "https://github.com/formoon/realworld-warp",
+          "category": "backend",
+          "language": "Rust",
+          "libraries": [
+            "Warp",
+            "Diesel"
+          ],
+          "numberOfStars": 0
+        },
+        {
+          "createdAt": "2021-01-25T22:27:51.926Z",
+          "updatedAt": "2021-04-20T03:45:16.695Z",
+          "repositoryURL": "https://github.com/neo4j-examples/nodejs-neo4j-realworld-example/tree/master/src",
+          "category": "backend",
+          "language": "JavaScript",
+          "libraries": [
+            "Neo4j",
+            "Express"
+          ]
+        },
+        {
+          "createdAt": "2020-12-07T06:19:19.542Z",
+          "updatedAt": "2021-04-20T15:45:16.664Z",
+          "repositoryURL": "https://github.com/lujakob/nestjs-realworld-example-app/tree/prisma",
+          "category": "backend",
+          "language": "TypeScript",
+          "libraries": [
+            "NestJS",
+            "Prisma"
+          ]
+        },
+        {
+          "createdAt": "2020-12-06T20:19:08.404Z",
+          "updatedAt": "2021-04-20T07:45:17.079Z",
+          "repositoryURL": "https://github.com/gothinkster/react-redux-realworld-example-app",
+          "category": "frontend",
+          "language": "JavaScript",
+          "libraries": [
+            "React",
+            "Redux"
+          ],
+          "numberOfStars": 5010,
+          "markedAsUnmaintainedOn": "2021-02-04T08:19:18.104Z"
+        },
+        {
+          "createdAt": "2020-12-06T20:23:31.941Z",
+          "updatedAt": "2021-04-20T08:45:16.454Z",
+          "repositoryURL": "https://github.com/gothinkster/angular-realworld-example-app",
+          "category": "frontend",
+          "language": "TypeScript",
+          "libraries": [
+            "Angular"
+          ],
+          "numberOfStars": 4295,
+          "markedAsUnmaintainedOn": "2021-02-04T08:20:46.764Z"
+        },
+        {
+          "createdAt": "2020-12-06T20:26:58.015Z",
+          "updatedAt": "2021-04-20T08:45:16.644Z",
+          "repositoryURL": "https://github.com/gothinkster/vue-realworld-example-app",
+          "category": "frontend",
+          "language": "JavaScript",
+          "libraries": [
+            "Vue.js",
+            "Vuex"
+          ],
+          "numberOfStars": 3574,
+          "markedAsUnmaintainedOn": "2021-02-04T08:24:05.842Z"
+        },
+        {
+          "createdAt": "2020-12-06T20:31:59.463Z",
+          "updatedAt": "2021-04-20T09:45:17.656Z",
+          "repositoryURL": "https://github.com/rtfeldman/elm-spa-example",
+          "category": "frontend",
+          "language": "Elm",
+          "libraries": [
+            "Elm"
+          ],
+          "numberOfStars": 3053
+        },
+        {
+          "createdAt": "2020-12-06T20:33:00.156Z",
+          "updatedAt": "2021-04-20T09:45:17.851Z",
+          "repositoryURL": "https://github.com/gothinkster/react-mobx-realworld-example-app",
+          "category": "frontend",
+          "language": "JavaScript",
+          "libraries": [
+            "React",
+            "MobX"
+          ],
+          "numberOfStars": 1161,
+          "markedAsUnmaintainedOn": "2021-02-24T07:45:31.100Z"
+        },
+        {
+          "createdAt": "2020-12-06T20:36:27.840Z",
+          "updatedAt": "2021-04-20T09:45:18.028Z",
+          "repositoryURL": "https://github.com/sveltejs/realworld",
+          "category": "frontend",
+          "frontendEnvironment": "web",
+          "language": "JavaScript",
+          "libraries": [
+            "Svelte",
+            "SvelteKit"
+          ],
+          "numberOfStars": 953
+        },
+        {
+          "createdAt": "2020-12-07T02:14:50.763Z",
+          "updatedAt": "2021-04-20T09:45:18.275Z",
+          "repositoryURL": "https://github.com/thomashoneyman/purescript-halogen-realworld",
+          "category": "frontend",
+          "language": "PureScript",
+          "libraries": [
+            "Halogen"
+          ],
+          "numberOfStars": 610
+        },
+        {
+          "createdAt": "2020-12-07T05:12:00.347Z",
+          "updatedAt": "2021-04-20T10:45:16.785Z",
+          "repositoryURL": "https://github.com/stefanoslig/angular-ngrx-nx-realworld-example-app",
+          "category": "frontend",
+          "language": "TypeScript",
+          "libraries": [
+            "Angular",
+            "NgRx",
+            "Nx"
+          ],
+          "numberOfStars": 436
+        },
+        {
+          "createdAt": "2020-12-07T02:17:01.153Z",
+          "updatedAt": "2021-04-20T09:45:18.485Z",
+          "repositoryURL": "https://github.com/jacekschae/conduit",
+          "category": "frontend",
+          "language": "ClojureScript",
+          "libraries": [
+            "re-frame"
+          ],
+          "numberOfStars": 433
+        },
+        {
+          "createdAt": "2020-12-07T02:21:02.664Z",
+          "updatedAt": "2021-04-20T09:45:18.672Z",
+          "repositoryURL": "https://github.com/gothinkster/angularjs-realworld-example-app",
+          "category": "frontend",
+          "language": "JavaScript",
+          "libraries": [
+            "AngularJS 1"
+          ],
+          "numberOfStars": 388,
+          "markedAsUnmaintainedOn": "2021-02-13T23:05:35.424Z"
+        },
+        {
+          "createdAt": "2020-12-07T05:33:18.727Z",
+          "updatedAt": "2021-04-20T10:45:17.797Z",
+          "repositoryURL": "https://github.com/reck1ess/next-realworld-example-app",
+          "category": "frontend",
+          "language": "TypeScript",
+          "libraries": [
+            "Next.js",
+            "SWR"
+          ],
+          "numberOfStars": 281
+        },
+        {
+          "createdAt": "2020-12-07T05:14:52.639Z",
+          "updatedAt": "2021-04-20T10:45:17.179Z",
+          "repositoryURL": "https://github.com/jetli/rust-yew-realworld-example-app",
+          "category": "frontend",
+          "language": "Rust",
+          "libraries": [
+            "Yew",
+            "WebAssembly"
+          ],
+          "numberOfStars": 265
+        },
+        {
+          "createdAt": "2020-12-07T05:12:47.681Z",
+          "updatedAt": "2021-04-20T10:45:16.989Z",
+          "repositoryURL": "https://github.com/gothinkster/aurelia-realworld-example-app",
+          "category": "frontend",
+          "language": "JavaScript",
+          "libraries": [
+            "Aurelia"
+          ],
+          "numberOfStars": 183
+        },
+        {
+          "createdAt": "2020-12-07T05:25:17.863Z",
+          "updatedAt": "2021-04-20T10:45:17.387Z",
+          "repositoryURL": "https://github.com/gothinkster/ember-realworld",
+          "category": "frontend",
+          "language": "JavaScript",
+          "libraries": [
+            "Ember.js"
+          ],
+          "numberOfStars": 152
+        },
+        {
+          "createdAt": "2021-02-17T07:55:10.479Z",
+          "updatedAt": "2021-04-20T05:45:16.916Z",
+          "repositoryURL": "https://github.com/mg901/effector-react-realworld-example-app",
+          "category": "frontend",
+          "frontendEnvironment": "web",
+          "language": "TypeScript",
+          "libraries": [
+            "React",
+            "Effector"
+          ],
+          "numberOfStars": 122
+        },
+        {
+          "createdAt": "2020-12-07T05:37:49.463Z",
+          "updatedAt": "2021-04-20T11:45:16.290Z",
+          "repositoryURL": "https://github.com/gothinkster/web-components-realworld-example-app",
+          "category": "frontend",
+          "frontendEnvironment": "web",
+          "language": "JavaScript",
+          "libraries": [
+            "Vanilla JS",
+            "Web Components"
+          ],
+          "numberOfStars": 115
+        },
+        {
+          "createdAt": "2021-01-26T08:35:29.443Z",
+          "updatedAt": "2021-04-20T11:45:17.092Z",
+          "repositoryURL": "https://github.com/mutoe/vue3-realworld-example-app",
+          "category": "frontend",
+          "frontendEnvironment": "web",
+          "language": "TypeScript",
+          "libraries": [
+            "Vue.js",
+            "Vite"
+          ],
+          "numberOfStars": 107
+        },
+        {
+          "createdAt": "2020-12-07T05:31:21.039Z",
+          "updatedAt": "2021-04-20T10:45:17.593Z",
+          "repositoryURL": "https://github.com/gothinkster/apprun-realworld-example-app",
+          "category": "frontend",
+          "language": "TypeScript",
+          "libraries": [
+            "AppRun"
+          ],
+          "numberOfStars": 92
+        },
+        {
+          "createdAt": "2020-12-07T06:07:59.732Z",
+          "updatedAt": "2021-04-20T13:45:17.187Z",
+          "repositoryURL": "https://github.com/nea/nativescript-realworld-example-app",
+          "category": "frontend",
+          "frontendEnvironment": "mobile",
+          "language": "TypeScript",
+          "libraries": [
+            "NativeScript",
+            "Angular"
+          ],
+          "numberOfStars": 84
+        },
+        {
+          "createdAt": "2021-01-25T22:11:53.080Z",
+          "updatedAt": "2021-04-20T03:45:16.524Z",
+          "repositoryURL": "https://github.com/jonasbuntinx/purescript-react-realworld",
+          "category": "frontend",
+          "frontendEnvironment": "web",
+          "language": "PureScript",
+          "libraries": [
+            "React"
+          ],
+          "numberOfStars": 80
+        },
+        {
+          "createdAt": "2021-01-23T23:24:20.945Z",
+          "updatedAt": "2021-04-20T13:45:16.345Z",
+          "repositoryURL": "https://github.com/seed-rs/seed-rs-realworld",
+          "category": "frontend",
+          "frontendEnvironment": "web",
+          "language": "Rust",
+          "libraries": [
+            "Seed"
+          ],
+          "numberOfStars": 80
+        },
+        {
+          "createdAt": "2020-12-16T08:44:19.577Z",
+          "updatedAt": "2021-04-20T07:45:16.086Z",
+          "repositoryURL": "https://github.com/flexsurfer/conduitrn",
+          "category": "frontend",
+          "frontendEnvironment": "mobile",
+          "language": "ClojureScript",
+          "libraries": [
+            "React Native",
+            "re-frame"
+          ],
+          "numberOfStars": 75
+        },
+        {
+          "createdAt": "2020-12-07T05:39:09.285Z",
+          "updatedAt": "2021-04-20T11:45:16.480Z",
+          "repositoryURL": "https://github.com/gothinkster/clojurescript-keechma-realworld-example-app",
+          "category": "frontend",
+          "language": "ClojureScript",
+          "libraries": [
+            "Keechma"
+          ],
+          "numberOfStars": 66
+        },
+        {
+          "createdAt": "2021-02-13T09:15:33.489Z",
+          "updatedAt": "2021-04-20T22:52:21.998Z",
+          "repositoryURL": "https://github.com/khaledosman/stencil-realworld-app",
+          "category": "frontend",
+          "frontendEnvironment": "web",
+          "language": "TypeScript",
+          "libraries": [
+            "Stencil"
+          ],
+          "numberOfStars": 51
+        },
+        {
+          "createdAt": "2021-01-26T09:02:59.818Z",
+          "updatedAt": "2021-04-20T12:45:16.781Z",
+          "repositoryURL": "https://github.com/devJang/nuxt-realworld",
+          "category": "frontend",
+          "frontendEnvironment": "web",
+          "language": "TypeScript",
+          "libraries": [
+            "Nuxt.js"
+          ],
+          "numberOfStars": 44
+        },
+        {
+          "createdAt": "2020-12-22T05:16:42.953Z",
+          "updatedAt": "2021-04-20T04:45:17.309Z",
+          "repositoryURL": "https://github.com/ryansolid/solid-realworld",
+          "category": "frontend",
+          "frontendEnvironment": "web",
+          "language": "JavaScript",
+          "libraries": [
+            "Solid"
+          ],
+          "numberOfStars": 44
+        },
+        {
+          "createdAt": "2020-12-07T05:44:41.354Z",
+          "updatedAt": "2021-04-20T11:45:16.725Z",
+          "repositoryURL": "https://github.com/kwasniew/hyperapp-realworld-example-app",
+          "category": "frontend",
+          "language": "JavaScript",
+          "libraries": [
+            "Hyperapp"
+          ],
+          "numberOfStars": 41
+        },
+        {
+          "createdAt": "2021-04-20T04:02:32.542Z",
+          "updatedAt": "2021-04-20T05:43:16.210Z",
+          "repositoryURL": "https://github.com/mint-lang/mint-realworld",
+          "category": "frontend",
+          "frontendEnvironment": "web",
+          "language": "Mint",
+          "libraries": [
+            "Mint"
+          ],
+          "numberOfStars": 35
+        },
+        {
+          "createdAt": "2020-12-07T05:46:17.418Z",
+          "updatedAt": "2021-04-20T12:45:16.122Z",
+          "repositoryURL": "https://github.com/gothinkster/dojo-realworld-example-app",
+          "category": "frontend",
+          "language": "TypeScript",
+          "libraries": [
+            "Dojo"
+          ],
+          "numberOfStars": 25
+        },
+        {
+          "createdAt": "2021-03-09T23:12:32.923Z",
+          "updatedAt": "2021-04-20T13:45:16.740Z",
+          "repositoryURL": "https://github.com/mits-gossau/event-driven-web-components-realworld-example-app",
+          "category": "frontend",
+          "frontendEnvironment": "web",
+          "language": "JavaScript",
+          "libraries": [
+            "Vanilla JS",
+            "Web Components",
+            "Event Driven"
+          ],
+          "numberOfStars": 23
+        },
+        {
+          "createdAt": "2021-01-25T21:37:51.790Z",
+          "updatedAt": "2021-04-20T23:45:16.684Z",
+          "repositoryURL": "https://github.com/JoeyMckenzie/BlazorConduit",
+          "category": "frontend",
+          "frontendEnvironment": "web",
+          "language": "C#",
+          "libraries": [
+            "Blazor",
+            "WebAssembly"
+          ],
+          "numberOfStars": 22
+        },
+        {
+          "createdAt": "2020-12-07T05:47:48.675Z",
+          "updatedAt": "2021-04-20T12:45:16.360Z",
+          "repositoryURL": "https://github.com/ecomfe/san-realworld-app",
+          "category": "frontend",
+          "language": "JavaScript",
+          "libraries": [
+            "San"
+          ],
+          "numberOfStars": 15
+        },
+        {
+          "createdAt": "2020-12-07T05:54:32.385Z",
+          "updatedAt": "2021-04-20T12:45:17.210Z",
+          "repositoryURL": "https://github.com/cartonalexandre/imba-realworld-example-app",
+          "category": "frontend",
+          "language": "JavaScript",
+          "libraries": [
+            "Imba"
+          ],
+          "numberOfStars": 13
+        },
+        {
+          "createdAt": "2021-02-16T01:34:15.021Z",
+          "updatedAt": "2021-04-20T13:45:16.123Z",
+          "repositoryURL": "https://github.com/iq3addLi/riot_realworld_example_app",
+          "category": "frontend",
+          "frontendEnvironment": "web",
+          "language": "TypeScript",
+          "libraries": [
+            "Riot"
+          ],
+          "numberOfStars": 13
+        },
+        {
+          "createdAt": "2021-01-26T22:20:27.825Z",
+          "updatedAt": "2021-04-20T06:45:16.708Z",
+          "repositoryURL": "https://github.com/rlander/conduit",
+          "category": "frontend",
+          "frontendEnvironment": "web",
+          "language": "ClojureScript",
+          "libraries": [
+            "Hoplon",
+            "shadow-cljs"
+          ],
+          "numberOfStars": 12
+        },
+        {
+          "createdAt": "2021-01-25T08:14:49.919Z",
+          "updatedAt": "2021-04-20T08:45:17.279Z",
+          "repositoryURL": "https://github.com/mutoe/preact-realworld-example-app",
+          "category": "frontend",
+          "frontendEnvironment": "web",
+          "language": "TypeScript",
+          "libraries": [
+            "Preact"
+          ],
+          "numberOfStars": 12
+        },
+        {
+          "createdAt": "2020-12-07T05:56:34.272Z",
+          "updatedAt": "2021-04-20T13:45:16.523Z",
+          "repositoryURL": "https://github.com/gothinkster/crizmas-mvc-realworld-example-app",
+          "category": "frontend",
+          "language": "JavaScript",
+          "libraries": [
+            "crizmas-mvc"
+          ],
+          "numberOfStars": 10
+        },
+        {
+          "createdAt": "2021-02-16T08:32:43.465Z",
+          "updatedAt": "2021-04-20T19:45:17.625Z",
+          "repositoryURL": "https://github.com/rjaros/kvision-realworld-example-app",
+          "category": "frontend",
+          "frontendEnvironment": "web",
+          "language": "Kotlin",
+          "libraries": [
+            "KVision"
+          ],
+          "numberOfStars": 10
+        },
+        {
+          "createdAt": "2020-12-07T05:52:42.767Z",
+          "updatedAt": "2021-04-20T12:45:16.598Z",
+          "repositoryURL": "https://github.com/neomjs/neomjs-realworld-example-app",
+          "category": "frontend",
+          "language": "JavaScript",
+          "libraries": [
+            "neo.mjs"
+          ],
+          "numberOfStars": 10
+        },
+        {
+          "createdAt": "2020-12-23T13:58:49.901Z",
+          "updatedAt": "2021-04-20T21:45:16.324Z",
+          "repositoryURL": "https://github.com/coding-blocks-archives/Conduit_Android_Kotlin",
+          "category": "frontend",
+          "frontendEnvironment": "mobile",
+          "language": "Kotlin",
+          "libraries": [
+            "Android Native"
+          ],
+          "numberOfStars": 6
+        },
+        {
+          "createdAt": "2021-02-13T09:15:06.641Z",
+          "updatedAt": "2021-04-20T17:45:18.661Z",
+          "repositoryURL": "https://github.com/khaledosman/react-redux-realworld-example-app",
+          "category": "frontend",
+          "frontendEnvironment": "web",
+          "language": "JavaScript",
+          "libraries": [
+            "React",
+            "Redux"
+          ],
+          "numberOfStars": 5
+        },
+        {
+          "createdAt": "2021-04-13T11:19:43.442Z",
+          "updatedAt": "2021-04-20T16:45:17.211Z",
+          "repositoryURL": "https://github.com/Marvel999/Conduit-Android-kotlin",
+          "category": "frontend",
+          "frontendEnvironment": "mobile",
+          "language": "Kotlin",
+          "libraries": [
+            "Android Native",
+            "Retrofit",
+            "Jetpack"
+          ],
+          "numberOfStars": 1
+        },
+        {
+          "createdAt": "2021-02-13T09:14:23.382Z",
+          "updatedAt": "2021-04-20T17:45:18.197Z",
+          "repositoryURL": "https://github.com/khaledosman/angular-realworld-example-app",
+          "category": "frontend",
+          "frontendEnvironment": "web",
+          "language": "TypeScript",
+          "libraries": [
+            "Angular"
+          ],
+          "numberOfStars": 1
+        },
+        {
+          "createdAt": "2021-02-13T12:45:52.552Z",
+          "updatedAt": "2021-04-20T05:45:37.148Z",
+          "repositoryURL": "https://github.com/khaledosman/vue-realworld-example-app",
+          "category": "frontend",
+          "frontendEnvironment": "web",
+          "language": "TypeScript",
+          "libraries": [
+            "Vue.js",
+            "Vuex"
+          ],
+          "numberOfStars": 0
+        },
+        {
+          "createdAt": "2021-04-15T15:35:51.680Z",
+          "updatedAt": "2021-04-20T04:45:16.401Z",
+          "repositoryURL": "https://github.com/wesib/realworld-app",
+          "category": "frontend",
+          "frontendEnvironment": "web",
+          "language": "TypeScript",
+          "libraries": [
+            "Wesib"
+          ],
+          "numberOfStars": 0
+        },
+        {
+          "createdAt": "2020-12-07T07:17:28.811Z",
+          "updatedAt": "2021-04-20T07:45:16.711Z",
+          "repositoryURL": "https://github.com/layrjs/react-layr-realworld-example-app",
+          "category": "fullstack",
+          "frontendEnvironment": "web",
+          "language": "JavaScript",
+          "libraries": [
+            "Layr",
+            "React"
+          ],
+          "numberOfStars": 44
+        },
+        {
+          "createdAt": "2021-02-16T07:59:22.375Z",
+          "updatedAt": "2021-04-20T19:45:17.424Z",
+          "repositoryURL": "https://github.com/lifeiscontent/realworld",
+          "category": "fullstack",
+          "frontendEnvironment": "web",
+          "language": "JavaScript",
+          "libraries": [
+            "Ruby on Rails",
+            "Next.js"
+          ],
+          "numberOfStars": 36
+        },
+        {
+          "createdAt": "2021-01-26T08:16:54.178Z",
+          "updatedAt": "2021-04-20T11:45:16.912Z",
+          "repositoryURL": "https://github.com/drashland/deno-drash-realworld-example-app",
+          "category": "fullstack",
+          "frontendEnvironment": "web",
+          "language": "TypeScript",
+          "libraries": [
+            "Drash",
+            "PostgreSQL",
+            "Vue.js"
+          ],
+          "numberOfStars": 31
+        },
+        {
+          "createdAt": "2021-03-07T17:43:40.900Z",
+          "updatedAt": "2021-04-20T22:45:16.994Z",
+          "repositoryURL": "https://github.com/andrewMacmurray/realworld-hasura",
+          "category": "fullstack",
+          "frontendEnvironment": "web",
+          "language": "Elm",
+          "libraries": [
+            "Hasura"
+          ],
+          "numberOfStars": 22
+        },
+        {
+          "createdAt": "2021-02-16T08:34:21.036Z",
+          "updatedAt": "2021-04-20T20:45:17.381Z",
+          "repositoryURL": "https://github.com/rjaros/kvision-realworld-example-app-fullstack",
+          "category": "fullstack",
+          "frontendEnvironment": "web",
+          "language": "Kotlin",
+          "libraries": [
+            "KVision",
+            "Spring Boot"
+          ],
+          "numberOfStars": 8
+        },
+        {
+          "createdAt": "2021-02-16T07:55:03.474Z",
+          "updatedAt": "2021-04-20T19:45:17.217Z",
+          "repositoryURL": "https://github.com/remast/gobuff_realworld_example_app",
+          "category": "fullstack",
+          "frontendEnvironment": "web",
+          "language": "Go",
+          "libraries": [
+            "Buffalo"
+          ],
+          "numberOfStars": 4
+        }
+      ]
+    },
+    {
+      "createdAt": "2021-02-17T05:42:08.665Z",
+      "updatedAt": "2021-04-20T00:48:20.752Z",
+      "slug": "todomvc",
+      "name": "TodoMVC",
+      "description": "A to-do application implemented using MV* concepts.",
+      "headline": "Helping you select an MV* framework",
+      "subheading": "See how the same to-do application is implemented using different MV* frameworks.",
+      "logo": {
+        "normalURL": "/todomvc-logo-dark-mode-20200207.immutable.svg",
+        "narrowURL": "/todomvc-logo-dark-mode-20200207.immutable.svg",
+        "height": 25
+      },
+      "screenshot": {
+        "normalURL": "/todomvc-screenshot-20210217.immutable.png",
+        "height": 200
+      },
+      "websiteURL": "https://todomvc.com/",
+      "createURL": "https://github.com/tastejs/todomvc/blob/master/contributing.md",
+      "demoURL": "https://todomvc.com/examples/backbone/",
+      "repositoryURL": "https://github.com/tastejs/todomvc",
+      "categories": [
+        "frontend"
+      ],
+      "implementations": [
+        {
+          "createdAt": "2021-01-01T00:00:00.000Z",
+          "updatedAt": "2021-04-20T20:45:17.004Z",
+          "repositoryURL": "https://github.com/evancz/elm-todomvc",
+          "category": "frontend",
+          "frontendEnvironment": "web",
+          "language": "Elm",
+          "libraries": [
+            "Elm"
+          ],
+          "numberOfStars": 1183
+        },
+        {
+          "createdAt": "2021-01-01T00:00:00.000Z",
+          "updatedAt": "2021-04-20T20:45:16.576Z",
+          "repositoryURL": "https://github.com/ThoughtWorksInc/todo",
+          "category": "frontend",
+          "frontendEnvironment": "web",
+          "language": "Scala",
+          "libraries": [
+            "Binding.scala"
+          ],
+          "numberOfStars": 55
+        },
+        {
+          "createdAt": "2021-01-01T00:00:00.000Z",
+          "updatedAt": "2021-04-20T19:45:17.811Z",
+          "repositoryURL": "https://github.com/tastejs/todomvc/tree/master/examples/angular2",
+          "category": "frontend",
+          "frontendEnvironment": "web",
+          "language": "TypeScript",
+          "libraries": [
+            "Angular"
+          ],
+          "markedAsUnmaintainedOn": "2021-02-17T23:17:47.912Z"
+        },
+        {
+          "createdAt": "2021-01-01T00:00:00.000Z",
+          "updatedAt": "2021-04-20T18:45:17.263Z",
+          "repositoryURL": "https://github.com/tastejs/todomvc/tree/master/examples/aurelia",
+          "category": "frontend",
+          "frontendEnvironment": "web",
+          "language": "JavaScript",
+          "libraries": [
+            "Aurelia"
+          ]
+        },
+        {
+          "createdAt": "2021-01-01T00:00:00.000Z",
+          "updatedAt": "2021-04-20T04:45:16.757Z",
+          "repositoryURL": "https://github.com/tastejs/todomvc/tree/master/examples/backbone",
+          "category": "frontend",
+          "frontendEnvironment": "web",
+          "language": "JavaScript",
+          "libraries": [
+            "Backbone"
+          ]
+        },
+        {
+          "createdAt": "2021-01-01T00:00:00.000Z",
+          "updatedAt": "2021-04-20T21:45:17.310Z",
+          "repositoryURL": "https://github.com/tastejs/todomvc/tree/master/examples/knockback",
+          "category": "frontend",
+          "frontendEnvironment": "web",
+          "language": "JavaScript",
+          "libraries": [
+            "Backbone",
+            "Knockout",
+            "Knockback"
+          ]
+        },
+        {
+          "createdAt": "2021-01-01T00:00:00.000Z",
+          "updatedAt": "2021-04-20T20:45:16.383Z",
+          "repositoryURL": "https://github.com/tastejs/todomvc/tree/master/examples/backbone_marionette",
+          "category": "frontend",
+          "frontendEnvironment": "web",
+          "language": "JavaScript",
+          "libraries": [
+            "Backbone",
+            "Marionette"
+          ]
+        },
+        {
+          "createdAt": "2021-01-01T00:00:00.000Z",
+          "updatedAt": "2021-04-20T20:45:16.777Z",
+          "repositoryURL": "https://github.com/tastejs/todomvc/tree/master/examples/dojo",
+          "category": "frontend",
+          "frontendEnvironment": "web",
+          "language": "JavaScript",
+          "libraries": [
+            "Dojo"
+          ]
+        },
+        {
+          "createdAt": "2021-01-01T00:00:00.000Z",
+          "updatedAt": "2021-04-20T20:45:17.201Z",
+          "repositoryURL": "https://github.com/tastejs/todomvc/tree/master/examples/emberjs",
+          "category": "frontend",
+          "frontendEnvironment": "web",
+          "language": "JavaScript",
+          "libraries": [
+            "Ember.js"
+          ]
+        },
+        {
+          "createdAt": "2021-01-01T00:00:00.000Z",
+          "updatedAt": "2021-04-20T21:45:17.139Z",
+          "repositoryURL": "https://github.com/tastejs/todomvc/tree/master/examples/jquery",
+          "category": "frontend",
+          "frontendEnvironment": "web",
+          "language": "JavaScript",
+          "libraries": [
+            "jQuery"
+          ]
+        },
+        {
+          "createdAt": "2021-01-01T00:00:00.000Z",
+          "updatedAt": "2021-04-20T22:45:17.188Z",
+          "repositoryURL": "https://github.com/tastejs/todomvc/tree/master/examples/knockoutjs",
+          "category": "frontend",
+          "frontendEnvironment": "web",
+          "language": "JavaScript",
+          "libraries": [
+            "Knockout"
+          ]
+        },
+        {
+          "createdAt": "2021-01-01T00:00:00.000Z",
+          "updatedAt": "2021-04-20T22:45:17.381Z",
+          "repositoryURL": "https://github.com/tastejs/todomvc/tree/master/examples/mithril",
+          "category": "frontend",
+          "frontendEnvironment": "web",
+          "language": "JavaScript",
+          "libraries": [
+            "Mithril"
+          ],
+          "markedAsUnmaintainedOn": "2021-02-18T00:00:33.078Z"
+        },
+        {
+          "createdAt": "2021-01-01T00:00:00.000Z",
+          "updatedAt": "2021-04-20T02:45:16.073Z",
+          "repositoryURL": "https://github.com/tastejs/todomvc/tree/master/examples/typescript-react",
+          "category": "frontend",
+          "frontendEnvironment": "web",
+          "language": "TypeScript",
+          "libraries": [
+            "React"
+          ]
+        },
+        {
+          "createdAt": "2021-01-01T00:00:00.000Z",
+          "updatedAt": "2021-04-20T22:45:17.560Z",
+          "repositoryURL": "https://github.com/tastejs/todomvc/tree/master/examples/react",
+          "category": "frontend",
+          "frontendEnvironment": "web",
+          "language": "JavaScript",
+          "libraries": [
+            "React"
+          ],
+          "markedAsUnmaintainedOn": "2021-02-18T00:10:09.000Z"
+        },
+        {
+          "createdAt": "2021-01-01T00:00:00.000Z",
+          "updatedAt": "2021-04-20T22:45:17.737Z",
+          "repositoryURL": "https://github.com/tastejs/todomvc/tree/master/examples/react-hooks",
+          "category": "frontend",
+          "frontendEnvironment": "web",
+          "language": "JavaScript",
+          "libraries": [
+            "React (using hooks)"
+          ]
+        },
+        {
+          "createdAt": "2021-01-01T00:00:00.000Z",
+          "updatedAt": "2021-04-20T22:45:17.914Z",
+          "repositoryURL": "https://github.com/tastejs/todomvc/tree/master/examples/reagent",
+          "category": "frontend",
+          "frontendEnvironment": "web",
+          "language": "ClojureScript",
+          "libraries": [
+            "Reagent"
+          ],
+          "markedAsUnmaintainedOn": "2021-02-18T00:19:00.475Z"
+        },
+        {
+          "createdAt": "2021-01-01T00:00:00.000Z",
+          "updatedAt": "2021-04-20T23:45:16.133Z",
+          "repositoryURL": "https://github.com/tastejs/todomvc/tree/master/examples/riotjs",
+          "category": "frontend",
+          "frontendEnvironment": "web",
+          "language": "JavaScript",
+          "libraries": [
+            "Riot.js"
+          ],
+          "markedAsUnmaintainedOn": "2021-02-18T00:22:19.933Z"
+        },
+        {
+          "createdAt": "2021-01-01T00:00:00.000Z",
+          "updatedAt": "2021-04-20T14:45:17.318Z",
+          "repositoryURL": "https://github.com/tastejs/todomvc/tree/master/examples/scalajs-react",
+          "category": "frontend",
+          "frontendEnvironment": "web",
+          "language": "Scala",
+          "libraries": [
+            "Scala.js",
+            "React"
+          ]
+        },
+        {
+          "createdAt": "2021-01-01T00:00:00.000Z",
+          "updatedAt": "2021-04-20T02:45:16.261Z",
+          "repositoryURL": "https://github.com/tastejs/todomvc/tree/master/examples/vanillajs",
+          "category": "frontend",
+          "frontendEnvironment": "web",
+          "language": "JavaScript",
+          "libraries": [
+            "Vanilla JavaScript"
+          ]
+        },
+        {
+          "createdAt": "2021-01-01T00:00:00.000Z",
+          "updatedAt": "2021-04-20T02:45:16.464Z",
+          "repositoryURL": "https://github.com/tastejs/todomvc/tree/master/examples/vanilla-es6",
+          "category": "frontend",
+          "frontendEnvironment": "web",
+          "language": "JavaScript",
+          "libraries": [
+            "Vanilla JavaScript (ES2015)"
+          ]
+        },
+        {
+          "createdAt": "2021-01-01T00:00:00.000Z",
+          "updatedAt": "2021-04-20T02:45:16.636Z",
+          "repositoryURL": "https://github.com/tastejs/todomvc/tree/master/examples/vue",
+          "category": "frontend",
+          "frontendEnvironment": "web",
+          "language": "JavaScript",
+          "libraries": [
+            "Vue.js"
+          ]
+        }
+      ]
+    }
+  ]
+}
