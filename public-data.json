@@ -303,7 +303,7 @@
         },
         {
           "createdAt": "2020-12-07T06:55:43.733Z",
-          "updatedAt": "2021-04-20T02:45:16.827Z",
+          "updatedAt": "2021-04-21T00:45:16.878Z",
           "repositoryURL": "https://github.com/Rudge/kotlin-javalin-realworld-example-app",
           "category": "backend",
           "language": "Kotlin",
@@ -1201,7 +1201,7 @@
         },
         {
           "createdAt": "2021-02-13T12:45:52.552Z",
-          "updatedAt": "2021-04-20T05:45:37.148Z",
+          "updatedAt": "2021-04-21T00:45:17.161Z",
           "repositoryURL": "https://github.com/khaledosman/vue-realworld-example-app",
           "category": "frontend",
           "frontendEnvironment": "web",
@@ -1469,7 +1469,7 @@
         },
         {
           "createdAt": "2021-01-01T00:00:00.000Z",
-          "updatedAt": "2021-04-20T02:45:16.073Z",
+          "updatedAt": "2021-04-21T00:45:16.100Z",
           "repositoryURL": "https://github.com/tastejs/todomvc/tree/master/examples/typescript-react",
           "category": "frontend",
           "frontendEnvironment": "web",
@@ -1539,7 +1539,7 @@
         },
         {
           "createdAt": "2021-01-01T00:00:00.000Z",
-          "updatedAt": "2021-04-20T02:45:16.261Z",
+          "updatedAt": "2021-04-21T00:45:16.292Z",
           "repositoryURL": "https://github.com/tastejs/todomvc/tree/master/examples/vanillajs",
           "category": "frontend",
           "frontendEnvironment": "web",
@@ -1550,7 +1550,7 @@
         },
         {
           "createdAt": "2021-01-01T00:00:00.000Z",
-          "updatedAt": "2021-04-20T02:45:16.464Z",
+          "updatedAt": "2021-04-21T00:45:16.507Z",
           "repositoryURL": "https://github.com/tastejs/todomvc/tree/master/examples/vanilla-es6",
           "category": "frontend",
           "frontendEnvironment": "web",
@@ -1561,7 +1561,7 @@
         },
         {
           "createdAt": "2021-01-01T00:00:00.000Z",
-          "updatedAt": "2021-04-20T02:45:16.636Z",
+          "updatedAt": "2021-04-21T00:45:16.700Z",
           "repositoryURL": "https://github.com/tastejs/todomvc/tree/master/examples/vue",
           "category": "frontend",
           "frontendEnvironment": "web",
