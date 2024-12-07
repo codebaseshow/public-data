@@ -2,7 +2,7 @@
   "projects": [
     {
       "createdAt": "2021-02-13T00:30:06.005Z",
-      "updatedAt": "2024-12-06T05:50:14.732Z",
+      "updatedAt": "2024-12-07T05:50:13.760Z",
       "slug": "realworld",
       "name": "RealWorld Example Apps",
       "description": "A Medium.com clone.",
@@ -31,7 +31,7 @@
       "implementations": [
         {
           "createdAt": "2023-08-19T17:37:42.605Z",
-          "updatedAt": "2024-12-05T21:50:41.730Z",
+          "updatedAt": "2024-12-06T19:50:45.672Z",
           "repositoryURL": "https://github.com/Erikvdv/realworldapiminimal",
           "category": "backend",
           "language": "C#",
@@ -42,7 +42,7 @@
         },
         {
           "createdAt": "2022-05-15T04:41:22.947Z",
-          "updatedAt": "2024-12-05T07:50:43.028Z",
+          "updatedAt": "2024-12-07T04:50:44.697Z",
           "repositoryURL": "https://github.com/snamiki1212/realworld-v1-rust-actix-web-diesel",
           "category": "backend",
           "language": "Rust",
@@ -53,7 +53,7 @@
         },
         {
           "createdAt": "2021-04-16T14:58:18.214Z",
-          "updatedAt": "2024-12-06T00:50:42.868Z",
+          "updatedAt": "2024-12-06T23:50:41.696Z",
           "repositoryURL": "https://github.com/Utwo/adonis-realworld-example-app",
           "category": "backend",
           "language": "JavaScript",
@@ -63,7 +63,7 @@
         },
         {
           "createdAt": "2022-03-31T20:19:33.831Z",
-          "updatedAt": "2024-12-05T15:50:45.539Z",
+          "updatedAt": "2024-12-06T14:50:43.467Z",
           "repositoryURL": "https://github.com/giuliana-bezerra/adonisjs-tdd-typescript-example-app",
           "category": "backend",
           "language": "TypeScript",
@@ -73,7 +73,7 @@
         },
         {
           "createdAt": "2024-03-16T12:27:58.550Z",
-          "updatedAt": "2024-12-05T18:50:43.309Z",
+          "updatedAt": "2024-12-06T17:50:42.385Z",
           "repositoryURL": "https://github.com/stkrizh/realworld-aiohttp",
           "category": "backend",
           "language": "Python",
@@ -86,7 +86,7 @@
         },
         {
           "createdAt": "2020-12-07T07:07:04.660Z",
-          "updatedAt": "2024-12-05T23:50:42.440Z",
+          "updatedAt": "2024-12-06T22:50:41.517Z",
           "repositoryURL": "https://github.com/1984weed/akka-http-realworld-example",
           "category": "backend",
           "language": "Scala",
@@ -97,7 +97,7 @@
         },
         {
           "createdAt": "2023-04-28T09:29:47.563Z",
-          "updatedAt": "2024-12-06T01:50:42.432Z",
+          "updatedAt": "2024-12-07T00:50:41.968Z",
           "repositoryURL": "https://github.com/jacekszymanski/realworld-camel-springboot",
           "category": "backend",
           "language": "Java",
@@ -109,7 +109,7 @@
         },
         {
           "createdAt": "2020-12-07T06:13:25.599Z",
-          "updatedAt": "2024-12-05T09:50:43.650Z",
+          "updatedAt": "2024-12-06T08:50:43.821Z",
           "repositoryURL": "https://github.com/gothinkster/aspnetcore-realworld-example-app",
           "category": "backend",
           "language": "C#",
@@ -119,7 +119,7 @@
         },
         {
           "createdAt": "2020-12-07T06:50:49.421Z",
-          "updatedAt": "2024-12-05T17:50:42.144Z",
+          "updatedAt": "2024-12-06T15:50:45.033Z",
           "repositoryURL": "https://github.com/dnikolovv/dev-adventures-realworld",
           "category": "backend",
           "language": "C#",
@@ -130,7 +130,7 @@
         },
         {
           "createdAt": "2021-11-07T11:06:55.814Z",
-          "updatedAt": "2024-12-06T00:50:42.408Z",
+          "updatedAt": "2024-12-06T22:50:44.868Z",
           "repositoryURL": "https://github.com/Erikvdv/realworlddotnet",
           "category": "backend",
           "language": "C#",
@@ -140,7 +140,7 @@
         },
         {
           "createdAt": "2023-09-29T19:14:13.374Z",
-          "updatedAt": "2024-12-05T19:50:42.572Z",
+          "updatedAt": "2024-12-06T17:50:44.975Z",
           "repositoryURL": "https://github.com/mgroves/realworld-aspnet-couchbase",
           "category": "backend",
           "language": "C#",
@@ -151,7 +151,7 @@
         },
         {
           "createdAt": "2022-06-21T06:16:02.307Z",
-          "updatedAt": "2024-12-05T07:50:42.274Z",
+          "updatedAt": "2024-12-07T04:50:43.891Z",
           "repositoryURL": "https://github.com/profjordanov/realworld-microservices",
           "category": "backend",
           "language": "C#",
@@ -162,7 +162,7 @@
         },
         {
           "createdAt": "2020-12-07T07:09:40.247Z",
-          "updatedAt": "2024-12-06T00:50:43.061Z",
+          "updatedAt": "2024-12-06T23:50:41.910Z",
           "repositoryURL": "https://github.com/chrisxue815/realworld-aws-lambda-dynamodb-go",
           "category": "backend",
           "language": "Go",
@@ -173,7 +173,7 @@
         },
         {
           "createdAt": "2020-12-07T06:44:57.755Z",
-          "updatedAt": "2024-12-05T14:50:44.604Z",
+          "updatedAt": "2024-12-06T13:50:43.444Z",
           "repositoryURL": "https://github.com/anishkny/realworld-dynamodb-lambda",
           "category": "backend",
           "language": "JavaScript",
@@ -184,7 +184,7 @@
         },
         {
           "createdAt": "2024-03-08T10:58:10.985Z",
-          "updatedAt": "2024-12-05T17:50:42.892Z",
+          "updatedAt": "2024-12-06T16:50:41.948Z",
           "repositoryURL": "https://github.com/ldw3097/realworld_python-lambda-DDB",
           "category": "backend",
           "language": "Python",
@@ -195,7 +195,7 @@
         },
         {
           "createdAt": "2023-12-02T13:32:40.890Z",
-          "updatedAt": "2024-12-06T02:50:42.216Z",
+          "updatedAt": "2024-12-07T00:50:45.297Z",
           "repositoryURL": "https://github.com/chojs23/realworld-axum-prisma",
           "category": "backend",
           "language": "Rust",
@@ -206,7 +206,7 @@
         },
         {
           "createdAt": "2022-06-21T18:16:27.658Z",
-          "updatedAt": "2024-12-05T19:50:41.728Z",
+          "updatedAt": "2024-12-06T17:50:44.321Z",
           "repositoryURL": "https://github.com/JoeyMckenzie/realworld-rust-axum-sqlx",
           "category": "backend",
           "language": "Rust",
@@ -217,7 +217,7 @@
         },
         {
           "createdAt": "2022-01-16T03:50:49.917Z",
-          "updatedAt": "2024-12-05T07:50:41.332Z",
+          "updatedAt": "2024-12-07T04:50:42.871Z",
           "repositoryURL": "https://github.com/MarmaladeSky/realworld-starter-kit",
           "category": "backend",
           "language": "Scala",
@@ -231,7 +231,7 @@
         },
         {
           "createdAt": "2022-01-30T03:34:43.726Z",
-          "updatedAt": "2024-12-05T16:50:41.817Z",
+          "updatedAt": "2024-12-06T14:50:44.852Z",
           "repositoryURL": "https://github.com/jeko2000/tiny-routes-realworld-example-app",
           "category": "backend",
           "language": "Common Lisp",
@@ -242,7 +242,7 @@
         },
         {
           "createdAt": "2020-12-07T06:36:54.411Z",
-          "updatedAt": "2024-12-05T13:50:41.579Z",
+          "updatedAt": "2024-12-06T11:50:44.529Z",
           "repositoryURL": "https://github.com/err0r500/go-realworld-clean",
           "category": "backend",
           "language": "Go",
@@ -252,7 +252,7 @@
         },
         {
           "createdAt": "2020-12-07T07:06:07.457Z",
-          "updatedAt": "2024-12-05T23:50:42.076Z",
+          "updatedAt": "2024-12-06T21:50:44.887Z",
           "repositoryURL": "https://github.com/schoolhouse-io/colmena-realworld-example-app",
           "category": "backend",
           "language": "Ruby",
@@ -262,7 +262,7 @@
         },
         {
           "createdAt": "2021-12-26T17:23:25.374Z",
-          "updatedAt": "2024-12-06T04:50:44.048Z",
+          "updatedAt": "2024-12-07T03:50:44.856Z",
           "repositoryURL": "https://github.com/ditsmod/realworld",
           "category": "backend",
           "language": "TypeScript",
@@ -272,7 +272,7 @@
         },
         {
           "createdAt": "2024-07-14T23:22:34.166Z",
-          "updatedAt": "2024-12-05T18:50:42.055Z",
+          "updatedAt": "2024-12-06T16:50:44.320Z",
           "repositoryURL": "https://github.com/c4ffein/realworld-django-ninja",
           "category": "backend",
           "language": "Python",
@@ -282,7 +282,7 @@
         },
         {
           "createdAt": "2023-07-02T18:36:29.268Z",
-          "updatedAt": "2024-12-06T01:50:44.244Z",
+          "updatedAt": "2024-12-07T00:50:43.934Z",
           "repositoryURL": "https://github.com/Sean-Miningah/realWorld-DjangoRestFramework",
           "category": "backend",
           "language": "Python",
@@ -292,7 +292,7 @@
         },
         {
           "createdAt": "2021-05-07T20:02:02.280Z",
-          "updatedAt": "2024-12-05T15:50:42.664Z",
+          "updatedAt": "2024-12-06T13:50:44.087Z",
           "repositoryURL": "https://github.com/ramzitannous/medium-graphql-backend",
           "category": "backend",
           "language": "Python",
@@ -304,7 +304,7 @@
         },
         {
           "createdAt": "2021-07-01T20:07:25.860Z",
-          "updatedAt": "2024-12-05T19:50:42.843Z",
+          "updatedAt": "2024-12-06T18:50:41.780Z",
           "repositoryURL": "https://github.com/srbe/dropwizard-realworld-example-app",
           "category": "backend",
           "language": "Java",
@@ -314,7 +314,7 @@
         },
         {
           "createdAt": "2020-12-07T06:39:55.019Z",
-          "updatedAt": "2024-12-05T13:50:41.835Z",
+          "updatedAt": "2024-12-06T11:50:44.834Z",
           "repositoryURL": "https://github.com/xesina/golang-echo-realworld-example-app",
           "category": "backend",
           "language": "Go",
@@ -324,7 +324,7 @@
         },
         {
           "createdAt": "2021-02-16T23:32:30.429Z",
-          "updatedAt": "2024-12-05T10:50:42.749Z",
+          "updatedAt": "2024-12-06T08:50:45.465Z",
           "repositoryURL": "https://github.com/raahii/golang-grpc-realworld-example",
           "category": "backend",
           "language": "Go",
@@ -334,7 +334,7 @@
         },
         {
           "createdAt": "2024-05-27T22:10:26.054Z",
-          "updatedAt": "2024-12-05T21:50:44.858Z",
+          "updatedAt": "2024-12-06T20:50:43.778Z",
           "repositoryURL": "https://github.com/remuspoienar/bun-elysia-drizzle-sqlite",
           "category": "backend",
           "language": "TypeScript",
@@ -347,7 +347,7 @@
         },
         {
           "createdAt": "2020-12-07T07:01:20.257Z",
-          "updatedAt": "2024-12-05T22:50:45.379Z",
+          "updatedAt": "2024-12-06T21:50:43.954Z",
           "repositoryURL": "https://github.com/tanem/express-bookshelf-realworld-example-app",
           "category": "backend",
           "language": "JavaScript",
@@ -358,7 +358,7 @@
         },
         {
           "createdAt": "2023-12-08T15:51:11.233Z",
-          "updatedAt": "2024-12-05T11:50:44.849Z",
+          "updatedAt": "2024-12-06T10:50:43.857Z",
           "repositoryURL": "https://github.com/MacklinEngineering/Conduit",
           "category": "backend",
           "language": "TypeScript",
@@ -369,7 +369,7 @@
         },
         {
           "createdAt": "2024-01-24T09:38:51.177Z",
-          "updatedAt": "2024-12-06T04:50:41.963Z",
+          "updatedAt": "2024-12-07T02:50:45.574Z",
           "repositoryURL": "https://github.com/andrewMacmurray/realworld-backend-elm",
           "category": "backend",
           "language": "Elm",
@@ -380,7 +380,7 @@
         },
         {
           "createdAt": "2022-11-28T04:35:00.527Z",
-          "updatedAt": "2024-12-06T02:50:42.042Z",
+          "updatedAt": "2024-12-07T00:50:45.086Z",
           "repositoryURL": "https://github.com/cloud-engineering-recipes/typescript-firestore-terraform-realworld-backend",
           "category": "backend",
           "language": "TypeScript",
@@ -391,7 +391,7 @@
         },
         {
           "createdAt": "2023-04-21T04:53:18.887Z",
-          "updatedAt": "2024-12-05T07:50:44.404Z",
+          "updatedAt": "2024-12-06T06:50:43.798Z",
           "repositoryURL": "https://github.com/kenyipp/realworld-nodejs-example-app",
           "category": "backend",
           "language": "TypeScript",
@@ -403,7 +403,7 @@
         },
         {
           "createdAt": "2022-12-29T00:04:08.461Z",
-          "updatedAt": "2024-12-05T17:50:43.111Z",
+          "updatedAt": "2024-12-06T16:50:42.155Z",
           "repositoryURL": "https://github.com/winterrrrrff/realWorld-server",
           "category": "backend",
           "language": "JavaScript",
@@ -415,7 +415,7 @@
         },
         {
           "createdAt": "2020-12-07T06:10:55.682Z",
-          "updatedAt": "2024-12-05T08:50:44.417Z",
+          "updatedAt": "2024-12-06T07:50:43.266Z",
           "repositoryURL": "https://github.com/gothinkster/node-express-realworld-example-app",
           "category": "backend",
           "language": "JavaScript",
@@ -427,7 +427,7 @@
         },
         {
           "createdAt": "2023-07-28T14:45:09.614Z",
-          "updatedAt": "2024-12-05T12:50:43.923Z",
+          "updatedAt": "2024-12-06T11:50:43.218Z",
           "repositoryURL": "https://github.com/couchbase-examples/realWorld-server-ottomanjs",
           "category": "backend",
           "language": "JavaScript",
@@ -439,7 +439,7 @@
         },
         {
           "createdAt": "2022-11-29T15:57:57.192Z",
-          "updatedAt": "2024-12-05T16:50:44.007Z",
+          "updatedAt": "2024-12-06T15:50:43.008Z",
           "repositoryURL": "https://github.com/SeuRonao/realworld-express-prisma",
           "category": "backend",
           "language": "TypeScript",
@@ -450,7 +450,7 @@
         },
         {
           "createdAt": "2021-03-04T19:12:06.830Z",
-          "updatedAt": "2024-12-05T07:50:42.825Z",
+          "updatedAt": "2024-12-07T04:50:44.466Z",
           "repositoryURL": "https://github.com/Varun-Hegde/Conduit_NodeJS",
           "category": "backend",
           "language": "JavaScript",
@@ -462,7 +462,7 @@
         },
         {
           "createdAt": "2022-12-18T20:58:47.189Z",
-          "updatedAt": "2024-12-06T02:50:42.546Z",
+          "updatedAt": "2024-12-07T01:50:42.641Z",
           "repositoryURL": "https://github.com/chojs23/realword-exress-sequelize",
           "category": "backend",
           "language": "JavaScript",
@@ -473,7 +473,7 @@
         },
         {
           "createdAt": "2022-09-12T11:06:07.209Z",
-          "updatedAt": "2024-12-05T08:50:43.350Z",
+          "updatedAt": "2024-12-06T07:50:42.245Z",
           "repositoryURL": "https://github.com/art049/fastapi-odmantic-realworld-example",
           "category": "backend",
           "language": "Python",
@@ -484,7 +484,7 @@
         },
         {
           "createdAt": "2024-08-25T20:58:42.164Z",
-          "updatedAt": "2024-12-05T08:50:42.674Z",
+          "updatedAt": "2024-12-06T07:50:41.623Z",
           "repositoryURL": "https://github.com/borys25ol/fastapi-realworld-backend",
           "category": "backend",
           "language": "Python",
@@ -496,7 +496,7 @@
         },
         {
           "createdAt": "2022-11-25T13:51:54.273Z",
-          "updatedAt": "2024-12-05T07:50:43.989Z",
+          "updatedAt": "2024-12-06T06:50:43.356Z",
           "repositoryURL": "https://github.com/avanelli/fastify-realworld-example-app",
           "category": "backend",
           "language": "JavaScript",
@@ -507,7 +507,7 @@
         },
         {
           "createdAt": "2020-12-07T07:07:35.544Z",
-          "updatedAt": "2024-12-05T23:50:43.125Z",
+          "updatedAt": "2024-12-06T22:50:42.195Z",
           "repositoryURL": "https://github.com/randyscotsmithey/feathers-realworld-example-app",
           "category": "backend",
           "language": "JavaScript",
@@ -517,7 +517,7 @@
         },
         {
           "createdAt": "2021-10-08T11:56:39.763Z",
-          "updatedAt": "2024-12-06T01:50:43.652Z",
+          "updatedAt": "2024-12-07T00:50:43.222Z",
           "repositoryURL": "https://github.com/alpody/golang-fiber-realworld-example-app",
           "category": "backend",
           "language": "Go",
@@ -528,7 +528,7 @@
         },
         {
           "createdAt": "2024-07-19T19:20:33.141Z",
-          "updatedAt": "2024-12-05T16:50:43.746Z",
+          "updatedAt": "2024-12-06T15:50:42.708Z",
           "repositoryURL": "https://github.com/dashhhik/realworld-fiber-sqlc",
           "category": "backend",
           "language": "Go",
@@ -539,7 +539,7 @@
         },
         {
           "createdAt": "2024-03-07T02:08:35.737Z",
-          "updatedAt": "2024-12-05T08:50:43.562Z",
+          "updatedAt": "2024-12-06T07:50:42.471Z",
           "repositoryURL": "https://github.com/shivaylamba/conduit-flask",
           "category": "backend",
           "language": "Python",
@@ -549,7 +549,7 @@
         },
         {
           "createdAt": "2024-10-09T05:37:36.787Z",
-          "updatedAt": "2024-12-05T11:50:42.952Z",
+          "updatedAt": "2024-12-06T09:50:44.336Z",
           "repositoryURL": "https://github.com/mhegelheimer/realworld-flask",
           "category": "backend",
           "language": "Python",
@@ -560,7 +560,7 @@
         },
         {
           "createdAt": "2020-12-07T06:12:07.955Z",
-          "updatedAt": "2024-12-05T09:50:43.393Z",
+          "updatedAt": "2024-12-06T08:50:43.579Z",
           "repositoryURL": "https://github.com/gothinkster/golang-gin-realworld-example-app",
           "category": "backend",
           "language": "Go",
@@ -570,7 +570,7 @@
         },
         {
           "createdAt": "2024-03-17T01:11:24.151Z",
-          "updatedAt": "2024-12-05T08:50:44.646Z",
+          "updatedAt": "2024-12-06T07:50:43.512Z",
           "repositoryURL": "https://github.com/k0kishima/golang-realworld-example-app",
           "category": "backend",
           "language": "Go",
@@ -581,7 +581,7 @@
         },
         {
           "createdAt": "2023-04-26T10:03:01.835Z",
-          "updatedAt": "2024-12-05T22:50:44.693Z",
+          "updatedAt": "2024-12-06T21:50:43.317Z",
           "repositoryURL": "https://github.com/aliml92/realworld-gin-sqlc",
           "category": "backend",
           "language": "Go",
@@ -592,7 +592,7 @@
         },
         {
           "createdAt": "2021-12-22T11:16:10.537Z",
-          "updatedAt": "2024-12-05T10:50:45.781Z",
+          "updatedAt": "2024-12-06T09:50:43.877Z",
           "repositoryURL": "https://github.com/0xdod/go-realworld",
           "category": "backend",
           "language": "Go",
@@ -602,7 +602,7 @@
         },
         {
           "createdAt": "2022-04-28T19:35:33.465Z",
-          "updatedAt": "2024-12-06T02:50:44.507Z",
+          "updatedAt": "2024-12-07T01:50:44.554Z",
           "repositoryURL": "https://github.com/JoeyMckenzie/realworld-go-kit",
           "category": "backend",
           "language": "Go",
@@ -614,7 +614,7 @@
         },
         {
           "createdAt": "2022-10-20T05:20:12.073Z",
-          "updatedAt": "2024-12-05T18:50:44.992Z",
+          "updatedAt": "2024-12-06T17:50:43.895Z",
           "repositoryURL": "https://github.com/godspeedchu/grpc-realworld-example",
           "category": "backend",
           "language": "Java",
@@ -625,7 +625,7 @@
         },
         {
           "createdAt": "2020-12-08T08:54:05.633Z",
-          "updatedAt": "2024-12-06T01:50:41.348Z",
+          "updatedAt": "2024-12-06T23:50:43.971Z",
           "repositoryURL": "https://github.com/blrB/hanami-realworld-example-app",
           "category": "backend",
           "language": "Ruby",
@@ -635,7 +635,7 @@
         },
         {
           "createdAt": "2020-12-07T07:00:28.332Z",
-          "updatedAt": "2024-12-05T22:50:44.393Z",
+          "updatedAt": "2024-12-06T21:50:43.028Z",
           "repositoryURL": "https://github.com/devinivy/hapipal-realworld-example-app",
           "category": "backend",
           "language": "JavaScript",
@@ -645,7 +645,7 @@
         },
         {
           "createdAt": "2022-11-18T19:11:58.749Z",
-          "updatedAt": "2024-12-05T22:50:42.548Z",
+          "updatedAt": "2024-12-06T20:50:45.015Z",
           "repositoryURL": "https://github.com/hexagonkt/real_world",
           "category": "backend",
           "language": "Kotlin",
@@ -655,7 +655,7 @@
         },
         {
           "createdAt": "2023-09-18T01:47:54.602Z",
-          "updatedAt": "2024-12-06T03:50:43.136Z",
+          "updatedAt": "2024-12-07T02:50:43.792Z",
           "repositoryURL": "https://github.com/labasubagia/realworld-backend",
           "category": "backend",
           "language": "Go",
@@ -669,7 +669,7 @@
         },
         {
           "createdAt": "2020-12-07T06:58:15.833Z",
-          "updatedAt": "2024-12-05T21:50:44.282Z",
+          "updatedAt": "2024-12-06T20:50:43.252Z",
           "repositoryURL": "https://github.com/alisabzevari/kotlin-http4k-realworld-example-app",
           "category": "backend",
           "language": "Kotlin",
@@ -679,7 +679,7 @@
         },
         {
           "createdAt": "2021-05-30T15:05:41.377Z",
-          "updatedAt": "2024-12-06T00:50:43.851Z",
+          "updatedAt": "2024-12-06T23:50:42.703Z",
           "repositoryURL": "https://github.com/alex-k1/scala-http4s-realworld-example-app",
           "category": "backend",
           "language": "Scala",
@@ -692,7 +692,7 @@
         },
         {
           "createdAt": "2024-07-02T19:14:48.786Z",
-          "updatedAt": "2024-12-05T06:50:45.794Z",
+          "updatedAt": "2024-12-07T04:50:42.427Z",
           "repositoryURL": "https://github.com/marcusmonteirodesouza/realworld-backend-go-httprouter-jet-postgresql",
           "category": "backend",
           "language": "Go",
@@ -705,7 +705,7 @@
         },
         {
           "createdAt": "2021-01-25T22:52:28.686Z",
-          "updatedAt": "2024-12-05T20:50:44.757Z",
+          "updatedAt": "2024-12-06T19:50:43.854Z",
           "repositoryURL": "https://github.com/daimor/realworld-intersystems-iris",
           "category": "backend",
           "language": "ObjectScript",
@@ -715,7 +715,7 @@
         },
         {
           "createdAt": "2020-12-07T06:55:43.733Z",
-          "updatedAt": "2024-12-05T19:50:43.929Z",
+          "updatedAt": "2024-12-06T18:50:42.839Z",
           "repositoryURL": "https://github.com/Rudge/kotlin-javalin-realworld-example-app",
           "category": "backend",
           "language": "Kotlin",
@@ -727,7 +727,7 @@
         },
         {
           "createdAt": "2024-12-05T00:34:55.638Z",
-          "updatedAt": "2024-12-05T22:50:44.198Z",
+          "updatedAt": "2024-12-06T21:50:42.798Z",
           "repositoryURL": "https://github.com/bowbahdoe/jdk-httpserver-realworld",
           "category": "backend",
           "language": "Java",
@@ -739,7 +739,7 @@
         },
         {
           "createdAt": "2021-01-26T22:49:53.836Z",
-          "updatedAt": "2024-12-05T23:50:44.432Z",
+          "updatedAt": "2024-12-06T22:50:43.577Z",
           "repositoryURL": "https://github.com/eflem00/koa-boilerplate",
           "category": "backend",
           "language": "TypeScript",
@@ -750,7 +750,7 @@
         },
         {
           "createdAt": "2020-12-07T07:02:30.404Z",
-          "updatedAt": "2024-12-05T23:50:41.405Z",
+          "updatedAt": "2024-12-06T21:50:44.191Z",
           "repositoryURL": "https://github.com/dragneelfps/realworld-kotlin-ktor",
           "category": "backend",
           "language": "Kotlin",
@@ -760,7 +760,7 @@
         },
         {
           "createdAt": "2022-01-18T19:14:07.921Z",
-          "updatedAt": "2024-12-06T04:50:42.396Z",
+          "updatedAt": "2024-12-07T02:50:45.990Z",
           "repositoryURL": "https://github.com/skinnydoo/ktor-realworld-sample",
           "category": "backend",
           "language": "Kotlin",
@@ -771,7 +771,7 @@
         },
         {
           "createdAt": "2021-08-24T20:38:24.537Z",
-          "updatedAt": "2024-12-05T08:50:41.996Z",
+          "updatedAt": "2024-12-06T06:50:44.473Z",
           "repositoryURL": "https://github.com/f1amy/laravel-realworld-example-app",
           "category": "backend",
           "language": "PHP",
@@ -781,7 +781,7 @@
         },
         {
           "createdAt": "2021-11-01T18:18:59.124Z",
-          "updatedAt": "2024-12-06T03:50:44.225Z",
+          "updatedAt": "2024-12-07T02:50:45.139Z",
           "repositoryURL": "https://github.com/alexeymezenin/laravel-realworld-example-app",
           "category": "backend",
           "language": "PHP",
@@ -791,7 +791,7 @@
         },
         {
           "createdAt": "2024-09-17T17:34:19.936Z",
-          "updatedAt": "2024-12-05T09:50:41.472Z",
+          "updatedAt": "2024-12-06T07:50:43.708Z",
           "repositoryURL": "https://github.com/yukicountry/realworld-laravel-layered-architecture",
           "category": "backend",
           "language": "PHP",
@@ -802,7 +802,7 @@
         },
         {
           "createdAt": "2024-04-01T21:24:05.281Z",
-          "updatedAt": "2024-12-05T10:50:42.515Z",
+          "updatedAt": "2024-12-06T08:50:45.251Z",
           "repositoryURL": "https://github.com/martenframework/realworld",
           "category": "backend",
           "language": "Crystal",
@@ -812,7 +812,7 @@
         },
         {
           "createdAt": "2021-01-24T00:20:41.376Z",
-          "updatedAt": "2024-12-05T09:50:41.688Z",
+          "updatedAt": "2024-12-06T07:50:43.899Z",
           "repositoryURL": "https://github.com/vaibhavmule/masonite-realworld-example-app",
           "category": "backend",
           "language": "Python",
@@ -822,7 +822,7 @@
         },
         {
           "createdAt": "2021-01-25T08:16:31.251Z",
-          "updatedAt": "2024-12-06T02:50:43.574Z",
+          "updatedAt": "2024-12-07T01:50:43.513Z",
           "repositoryURL": "https://github.com/alexey-lapin/realworld-backend-micronaut",
           "category": "backend",
           "language": "Java",
@@ -832,7 +832,7 @@
         },
         {
           "createdAt": "2021-02-22T19:32:41.833Z",
-          "updatedAt": "2024-12-05T11:50:45.776Z",
+          "updatedAt": "2024-12-06T10:50:44.834Z",
           "repositoryURL": "https://github.com/OpenLiberty/openliberty-realworld-example-app",
           "category": "backend",
           "language": "Java",
@@ -844,7 +844,7 @@
         },
         {
           "createdAt": "2021-01-25T22:27:51.926Z",
-          "updatedAt": "2024-12-05T20:50:44.161Z",
+          "updatedAt": "2024-12-06T19:50:43.341Z",
           "repositoryURL": "https://github.com/neo4j-examples/nodejs-neo4j-realworld-example/tree/master/src",
           "category": "backend",
           "language": "JavaScript",
@@ -855,7 +855,7 @@
         },
         {
           "createdAt": "2021-01-25T22:29:47.248Z",
-          "updatedAt": "2024-12-05T20:50:44.481Z",
+          "updatedAt": "2024-12-06T19:50:43.596Z",
           "repositoryURL": "https://github.com/neo4j-examples/nestjs-neo4j-realworld-example",
           "category": "backend",
           "language": "TypeScript",
@@ -866,7 +866,7 @@
         },
         {
           "createdAt": "2021-04-16T20:12:33.161Z",
-          "updatedAt": "2024-12-06T04:50:44.837Z",
+          "updatedAt": "2024-12-07T03:50:45.650Z",
           "repositoryURL": "https://github.com/jsBlackBelt/microservices-realworld-app",
           "category": "backend",
           "language": "TypeScript",
@@ -880,7 +880,7 @@
         },
         {
           "createdAt": "2022-02-01T15:45:38.533Z",
-          "updatedAt": "2024-12-05T10:50:43.849Z",
+          "updatedAt": "2024-12-06T09:50:42.029Z",
           "repositoryURL": "https://github.com/mikro-orm/nestjs-realworld-example-app",
           "category": "backend",
           "language": "TypeScript",
@@ -891,7 +891,7 @@
         },
         {
           "createdAt": "2021-05-29T20:28:39.272Z",
-          "updatedAt": "2024-12-05T06:50:43.692Z",
+          "updatedAt": "2024-12-07T03:50:45.886Z",
           "repositoryURL": "https://github.com/ramzitannous/medium-graphql-nestjs",
           "category": "backend",
           "language": "TypeScript",
@@ -903,7 +903,7 @@
         },
         {
           "createdAt": "2020-12-07T06:19:19.542Z",
-          "updatedAt": "2024-12-05T10:50:43.175Z",
+          "updatedAt": "2024-12-06T08:50:45.882Z",
           "repositoryURL": "https://github.com/lujakob/nestjs-realworld-example-app/tree/prisma",
           "category": "backend",
           "language": "TypeScript",
@@ -915,7 +915,7 @@
         },
         {
           "createdAt": "2023-07-05T12:17:33.415Z",
-          "updatedAt": "2024-12-05T21:50:44.499Z",
+          "updatedAt": "2024-12-06T20:50:43.507Z",
           "repositoryURL": "https://github.com/mr-scrpt/medium-nest-prisma",
           "category": "backend",
           "language": "TypeScript",
@@ -926,7 +926,7 @@
         },
         {
           "createdAt": "2022-10-29T14:39:31.103Z",
-          "updatedAt": "2024-12-05T20:50:45.313Z",
+          "updatedAt": "2024-12-06T19:50:44.317Z",
           "repositoryURL": "https://github.com/gearhead041/realworld-nestjs-prisma-mongodb",
           "category": "backend",
           "language": "TypeScript",
@@ -938,7 +938,7 @@
         },
         {
           "createdAt": "2020-12-07T06:17:17.130Z",
-          "updatedAt": "2024-12-05T09:50:44.120Z",
+          "updatedAt": "2024-12-06T08:50:44.382Z",
           "repositoryURL": "https://github.com/lujakob/nestjs-realworld-example-app",
           "category": "backend",
           "language": "TypeScript",
@@ -949,7 +949,7 @@
         },
         {
           "createdAt": "2022-04-02T20:03:50.469Z",
-          "updatedAt": "2024-12-05T16:50:43.425Z",
+          "updatedAt": "2024-12-06T15:50:42.436Z",
           "repositoryURL": "https://github.com/borosr/realworld-go",
           "category": "backend",
           "language": "Go",
@@ -960,7 +960,7 @@
         },
         {
           "createdAt": "2023-12-07T10:22:46.406Z",
-          "updatedAt": "2024-12-06T03:50:42.444Z",
+          "updatedAt": "2024-12-07T02:50:42.797Z",
           "repositoryURL": "https://github.com/vincentserpoul/realworld-go-oapi-codegen-chi-pgx",
           "category": "backend",
           "language": "Go",
@@ -972,7 +972,7 @@
         },
         {
           "createdAt": "2021-03-10T03:10:01.914Z",
-          "updatedAt": "2024-12-05T12:50:44.383Z",
+          "updatedAt": "2024-12-06T11:50:43.626Z",
           "repositoryURL": "https://github.com/formoon/realworld-oatpp",
           "category": "backend",
           "language": "C++",
@@ -982,7 +982,7 @@
         },
         {
           "createdAt": "2023-06-19T21:17:46.572Z",
-          "updatedAt": "2024-12-05T18:50:42.806Z",
+          "updatedAt": "2024-12-06T17:50:41.843Z",
           "repositoryURL": "https://github.com/yukaitung/realworld-oat-poco",
           "category": "backend",
           "language": "C++",
@@ -993,7 +993,7 @@
         },
         {
           "createdAt": "2020-12-07T07:04:03.171Z",
-          "updatedAt": "2024-12-05T23:50:41.840Z",
+          "updatedAt": "2024-12-06T21:50:44.617Z",
           "repositoryURL": "https://github.com/vladfaust/crystalworld",
           "category": "backend",
           "language": "Crystal",
@@ -1003,7 +1003,7 @@
         },
         {
           "createdAt": "2023-11-13T07:03:44.658Z",
-          "updatedAt": "2024-12-06T00:50:44.931Z",
+          "updatedAt": "2024-12-06T23:50:43.727Z",
           "repositoryURL": "https://github.com/appiepollo14/openliberty-realworld-api",
           "category": "backend",
           "language": "Java",
@@ -1013,7 +1013,7 @@
         },
         {
           "createdAt": "2021-08-23T13:22:00.371Z",
-          "updatedAt": "2024-12-05T22:50:43.985Z",
+          "updatedAt": "2024-12-06T21:50:42.571Z",
           "repositoryURL": "https://github.com/tamanugi/realworld-phoenix",
           "category": "backend",
           "language": "Elixir",
@@ -1023,7 +1023,7 @@
         },
         {
           "createdAt": "2020-12-07T06:43:54.280Z",
-          "updatedAt": "2024-12-05T13:50:43.081Z",
+          "updatedAt": "2024-12-06T12:50:42.326Z",
           "repositoryURL": "https://github.com/furkan3ayraktar/clojure-polylith-realworld-example-app",
           "category": "backend",
           "language": "Clojure",
@@ -1034,7 +1034,7 @@
         },
         {
           "createdAt": "2021-01-22T23:29:02.188Z",
-          "updatedAt": "2024-12-06T02:50:43.007Z",
+          "updatedAt": "2024-12-07T01:50:43.101Z",
           "repositoryURL": "https://github.com/niteoweb/pyramid-realworld-example-app",
           "category": "backend",
           "language": "Python",
@@ -1044,7 +1044,7 @@
         },
         {
           "createdAt": "2020-12-07T06:59:02.527Z",
-          "updatedAt": "2024-12-05T22:50:43.775Z",
+          "updatedAt": "2024-12-06T21:50:42.347Z",
           "repositoryURL": "https://github.com/diegocamara/realworld-api-quarkus",
           "category": "backend",
           "language": "Java",
@@ -1055,7 +1055,7 @@
         },
         {
           "createdAt": "2023-11-13T06:40:52.275Z",
-          "updatedAt": "2024-12-06T00:50:41.725Z",
+          "updatedAt": "2024-12-06T22:50:44.185Z",
           "repositoryURL": "https://github.com/appiepollo14/quarkus-realworld-api",
           "category": "backend",
           "language": "Java",
@@ -1065,7 +1065,7 @@
         },
         {
           "createdAt": "2021-07-28T13:47:53.105Z",
-          "updatedAt": "2024-12-05T19:50:43.607Z",
+          "updatedAt": "2024-12-06T18:50:42.600Z",
           "repositoryURL": "https://github.com/u-ways/kotlin-quarkus-realworld-example-app",
           "category": "backend",
           "language": "Kotlin",
@@ -1075,7 +1075,7 @@
         },
         {
           "createdAt": "2023-02-26T14:16:25.244Z",
-          "updatedAt": "2024-12-05T06:50:46.001Z",
+          "updatedAt": "2024-12-07T04:50:42.623Z",
           "repositoryURL": "https://github.com/marcusmonteirodesouza/realworld-python-quart-sql",
           "category": "backend",
           "language": "Python",
@@ -1087,7 +1087,7 @@
         },
         {
           "createdAt": "2023-01-06T07:24:20.880Z",
-          "updatedAt": "2024-12-05T07:50:43.793Z",
+          "updatedAt": "2024-12-06T06:50:43.145Z",
           "repositoryURL": "https://github.com/alexeymezenin/ruby-on-rails-realworld-example-app",
           "category": "backend",
           "language": "Ruby",
@@ -1097,7 +1097,7 @@
         },
         {
           "createdAt": "2020-12-07T06:30:30.589Z",
-          "updatedAt": "2024-12-05T11:50:45.514Z",
+          "updatedAt": "2024-12-06T10:50:44.569Z",
           "repositoryURL": "https://github.com/TatriX/realworld-rust-rocket",
           "category": "backend",
           "language": "Rust",
@@ -1107,7 +1107,7 @@
         },
         {
           "createdAt": "2023-10-01T06:00:30.944Z",
-          "updatedAt": "2024-12-05T09:50:42.952Z",
+          "updatedAt": "2024-12-06T08:50:43.112Z",
           "repositoryURL": "https://github.com/ankur26/realworld-sanic",
           "category": "backend",
           "language": "Python",
@@ -1117,7 +1117,7 @@
         },
         {
           "createdAt": "2023-11-22T17:12:40.836Z",
-          "updatedAt": "2024-12-05T21:50:42.224Z",
+          "updatedAt": "2024-12-06T19:50:46.038Z",
           "repositoryURL": "https://github.com/toptobes/realworld-scotty-hs",
           "category": "backend",
           "language": "Haskell",
@@ -1127,7 +1127,7 @@
         },
         {
           "createdAt": "2021-08-01T14:44:14.572Z",
-          "updatedAt": "2024-12-06T04:50:42.826Z",
+          "updatedAt": "2024-12-07T03:50:42.950Z",
           "repositoryURL": "https://github.com/nodew/haskell-realworld-example",
           "category": "backend",
           "language": "Haskell",
@@ -1138,7 +1138,7 @@
         },
         {
           "createdAt": "2022-02-21T05:08:55.592Z",
-          "updatedAt": "2024-12-05T09:50:42.237Z",
+          "updatedAt": "2024-12-06T07:50:44.432Z",
           "repositoryURL": "https://github.com/marcusmonteirodesouza/dart-shelf-realworld-example-app",
           "category": "backend",
           "language": "Dart",
@@ -1149,7 +1149,7 @@
         },
         {
           "createdAt": "2020-12-07T07:11:56.811Z",
-          "updatedAt": "2024-12-06T00:50:44.087Z",
+          "updatedAt": "2024-12-06T23:50:42.946Z",
           "repositoryURL": "https://github.com/spincast/spincast-realworld",
           "category": "backend",
           "language": "Java",
@@ -1159,7 +1159,7 @@
         },
         {
           "createdAt": "2021-05-12T14:12:37.422Z",
-          "updatedAt": "2024-12-05T14:50:43.328Z",
+          "updatedAt": "2024-12-06T13:50:42.247Z",
           "repositoryURL": "https://github.com/raeperd/realworld-springboot-java",
           "category": "backend",
           "language": "Java",
@@ -1169,7 +1169,7 @@
         },
         {
           "createdAt": "2024-11-25T23:30:03.739Z",
-          "updatedAt": "2024-12-05T09:50:42.673Z",
+          "updatedAt": "2024-12-06T08:50:42.827Z",
           "repositoryURL": "https://github.com/1chz/realworld-java21-springboot3",
           "category": "backend",
           "language": "Java",
@@ -1179,7 +1179,7 @@
         },
         {
           "createdAt": "2020-12-07T06:32:37.632Z",
-          "updatedAt": "2024-12-05T12:50:44.877Z",
+          "updatedAt": "2024-12-06T11:50:44.149Z",
           "repositoryURL": "https://github.com/gothinkster/kotlin-spring-realworld-example-app",
           "category": "backend",
           "language": "Kotlin",
@@ -1189,7 +1189,7 @@
         },
         {
           "createdAt": "2023-05-28T04:10:46.781Z",
-          "updatedAt": "2024-12-05T21:50:41.257Z",
+          "updatedAt": "2024-12-06T19:50:45.220Z",
           "repositoryURL": "https://github.com/sabercon/realworld-spring-exposed",
           "category": "backend",
           "language": "Kotlin",
@@ -1200,7 +1200,7 @@
         },
         {
           "createdAt": "2023-06-14T07:16:17.583Z",
-          "updatedAt": "2024-12-05T22:50:43.567Z",
+          "updatedAt": "2024-12-06T21:50:42.124Z",
           "repositoryURL": "https://github.com/softwaremill/realworld-spring-boot-native",
           "category": "backend",
           "language": "Java",
@@ -1213,7 +1213,7 @@
         },
         {
           "createdAt": "2022-10-26T23:32:10.101Z",
-          "updatedAt": "2024-12-06T00:50:41.956Z",
+          "updatedAt": "2024-12-06T22:50:44.406Z",
           "repositoryURL": "https://github.com/alphawyu/spring-webflux-mongodb-r2dbc",
           "category": "backend",
           "language": "Kotlin",
@@ -1226,7 +1226,7 @@
         },
         {
           "createdAt": "2020-12-07T06:28:10.414Z",
-          "updatedAt": "2024-12-05T11:50:43.898Z",
+          "updatedAt": "2024-12-06T10:50:42.764Z",
           "repositoryURL": "https://github.com/gothinkster/spring-boot-realworld-example-app",
           "category": "backend",
           "language": "Java",
@@ -1237,7 +1237,7 @@
         },
         {
           "createdAt": "2023-12-14T08:04:47.653Z",
-          "updatedAt": "2024-12-05T07:50:41.741Z",
+          "updatedAt": "2024-12-07T04:50:43.338Z",
           "repositoryURL": "https://github.com/joyheros/realworld",
           "category": "backend",
           "language": "Java",
@@ -1248,7 +1248,7 @@
         },
         {
           "createdAt": "2022-05-22T07:23:49.388Z",
-          "updatedAt": "2024-12-06T02:50:44.768Z",
+          "updatedAt": "2024-12-07T01:50:44.824Z",
           "repositoryURL": "https://github.com/zoooo-hs/realworld-springboot",
           "category": "backend",
           "language": "Java",
@@ -1259,7 +1259,7 @@
         },
         {
           "createdAt": "2022-07-04T07:39:04.171Z",
-          "updatedAt": "2024-12-05T21:50:42.685Z",
+          "updatedAt": "2024-12-06T20:50:41.671Z",
           "repositoryURL": "https://github.com/raeperd/realworld-springboot-kotlin",
           "category": "backend",
           "language": "Kotlin",
@@ -1270,7 +1270,7 @@
         },
         {
           "createdAt": "2021-05-16T16:36:14.325Z",
-          "updatedAt": "2024-12-05T20:50:42.885Z",
+          "updatedAt": "2024-12-06T18:50:44.484Z",
           "repositoryURL": "https://github.com/borovikovd/realworld-backend-spring-ddd",
           "category": "backend",
           "language": "Java",
@@ -1282,7 +1282,7 @@
         },
         {
           "createdAt": "2024-06-19T02:48:33.347Z",
-          "updatedAt": "2024-12-06T01:50:44.056Z",
+          "updatedAt": "2024-12-07T00:50:43.692Z",
           "repositoryURL": "https://github.com/marcusmonteirodesouza/realworld-backend-spring-boot-java-keycloak-postgresql",
           "category": "backend",
           "language": "Java",
@@ -1294,7 +1294,7 @@
         },
         {
           "createdAt": "2024-07-04T07:25:42.223Z",
-          "updatedAt": "2024-12-05T19:50:43.120Z",
+          "updatedAt": "2024-12-06T18:50:42.099Z",
           "repositoryURL": "https://github.com/Blackmesa-Canteen/kotlin-springboot-pdstarter-kit",
           "category": "backend",
           "language": "Kotlin",
@@ -1307,7 +1307,7 @@
         },
         {
           "createdAt": "2024-05-15T02:43:21.105Z",
-          "updatedAt": "2024-12-05T11:50:43.170Z",
+          "updatedAt": "2024-12-06T09:50:44.537Z",
           "repositoryURL": "https://github.com/gabrielgua/realworld-springboot",
           "category": "backend",
           "language": "Java",
@@ -1319,7 +1319,7 @@
         },
         {
           "createdAt": "2024-07-14T15:40:45.096Z",
-          "updatedAt": "2024-12-05T10:50:44.061Z",
+          "updatedAt": "2024-12-06T09:50:42.268Z",
           "repositoryURL": "https://github.com/sivaprasadreddy/spring-realworld-conduit-api",
           "category": "backend",
           "language": "Java",
@@ -1331,7 +1331,7 @@
         },
         {
           "createdAt": "2021-08-23T12:38:48.058Z",
-          "updatedAt": "2024-12-05T20:50:45.974Z",
+          "updatedAt": "2024-12-06T19:50:44.970Z",
           "repositoryURL": "https://github.com/a-mountain/realworld-spring-webflux",
           "category": "backend",
           "language": "Java",
@@ -1343,7 +1343,7 @@
         },
         {
           "createdAt": "2021-09-12T12:42:30.265Z",
-          "updatedAt": "2024-12-05T21:50:43.732Z",
+          "updatedAt": "2024-12-06T20:50:42.705Z",
           "repositoryURL": "https://github.com/a-mountain/realworld-spring-webflux-kt",
           "category": "backend",
           "language": "Kotlin",
@@ -1355,7 +1355,7 @@
         },
         {
           "createdAt": "2022-05-22T00:59:23.177Z",
-          "updatedAt": "2024-12-05T20:50:43.838Z",
+          "updatedAt": "2024-12-06T19:50:43.021Z",
           "repositoryURL": "https://github.com/alphawyu/spring-webflux.fn-mongodb-spock",
           "category": "backend",
           "language": "Java",
@@ -1368,7 +1368,7 @@
         },
         {
           "createdAt": "2023-07-31T11:10:04.251Z",
-          "updatedAt": "2024-12-05T10:50:44.947Z",
+          "updatedAt": "2024-12-06T09:50:43.059Z",
           "repositoryURL": "https://github.com/couchbase-examples/couchbase-springboot-realworld-example-app",
           "category": "backend",
           "language": "Java",
@@ -1380,7 +1380,7 @@
         },
         {
           "createdAt": "2022-12-29T18:28:15.776Z",
-          "updatedAt": "2024-12-05T13:50:42.637Z",
+          "updatedAt": "2024-12-06T12:50:41.855Z",
           "repositoryURL": "https://github.com/igoryok-zp/symfony-realworld-example-app",
           "category": "backend",
           "language": "PHP",
@@ -1391,7 +1391,7 @@
         },
         {
           "createdAt": "2022-01-20T18:01:50.593Z",
-          "updatedAt": "2024-12-05T09:50:44.671Z",
+          "updatedAt": "2024-12-06T08:50:44.982Z",
           "repositoryURL": "https://github.com/Retamogordo/realword-tide-sqlite-backend",
           "category": "backend",
           "language": "Rust",
@@ -1402,7 +1402,7 @@
         },
         {
           "createdAt": "2023-07-17T21:31:29.958Z",
-          "updatedAt": "2024-12-05T14:50:42.907Z",
+          "updatedAt": "2024-12-06T13:50:41.762Z",
           "repositoryURL": "https://github.com/dmtai/realworld_service",
           "category": "backend",
           "language": "C++",
@@ -1413,7 +1413,7 @@
         },
         {
           "createdAt": "2021-07-16T12:03:22.221Z",
-          "updatedAt": "2024-12-05T10:50:42.963Z",
+          "updatedAt": "2024-12-06T08:50:45.687Z",
           "repositoryURL": "https://github.com/iq3addLi/swift-vapor-layered-realworld-example-app",
           "category": "backend",
           "language": "Swift",
@@ -1423,7 +1423,7 @@
         },
         {
           "createdAt": "2021-04-20T02:52:37.278Z",
-          "updatedAt": "2024-12-05T19:50:44.424Z",
+          "updatedAt": "2024-12-06T18:50:43.383Z",
           "repositoryURL": "https://github.com/AndierZ/conduit",
           "category": "backend",
           "language": "Java",
@@ -1435,7 +1435,7 @@
         },
         {
           "createdAt": "2021-03-10T03:11:01.090Z",
-          "updatedAt": "2024-12-05T12:50:44.593Z",
+          "updatedAt": "2024-12-06T11:50:43.887Z",
           "repositoryURL": "https://github.com/formoon/realworld-warp",
           "category": "backend",
           "language": "Rust",
@@ -1446,7 +1446,7 @@
         },
         {
           "createdAt": "2020-12-07T06:45:44.820Z",
-          "updatedAt": "2024-12-05T15:50:42.896Z",
+          "updatedAt": "2024-12-06T13:50:44.333Z",
           "repositoryURL": "https://github.com/tzemanovic/haskell-yesod-realworld-example-app",
           "category": "backend",
           "language": "Haskell",
@@ -1456,7 +1456,7 @@
         },
         {
           "createdAt": "2021-05-18T12:49:00.730Z",
-          "updatedAt": "2024-12-05T17:50:43.364Z",
+          "updatedAt": "2024-12-06T16:50:42.361Z",
           "repositoryURL": "https://github.com/albertborsos/yii2-realworld-example-app",
           "category": "backend",
           "language": "PHP",
@@ -1466,7 +1466,7 @@
         },
         {
           "createdAt": "2023-05-18T10:58:21.611Z",
-          "updatedAt": "2024-12-05T13:50:42.433Z",
+          "updatedAt": "2024-12-06T12:50:41.560Z",
           "repositoryURL": "https://github.com/softwaremill/realworld-tapir-zio",
           "category": "backend",
           "language": "Scala",
@@ -1477,7 +1477,7 @@
         },
         {
           "createdAt": "2020-12-23T13:58:49.901Z",
-          "updatedAt": "2024-12-05T14:50:44.385Z",
+          "updatedAt": "2024-12-06T13:50:43.235Z",
           "repositoryURL": "https://github.com/coding-blocks-archives/Conduit_Android_Kotlin",
           "category": "frontend",
           "frontendEnvironment": "mobile",
@@ -1488,7 +1488,7 @@
         },
         {
           "createdAt": "2021-04-13T11:19:43.442Z",
-          "updatedAt": "2024-12-05T11:50:45.052Z",
+          "updatedAt": "2024-12-06T10:50:44.062Z",
           "repositoryURL": "https://github.com/Marvel999/Conduit-Android-kotlin",
           "category": "frontend",
           "frontendEnvironment": "mobile",
@@ -1501,7 +1501,7 @@
         },
         {
           "createdAt": "2020-12-06T20:23:31.941Z",
-          "updatedAt": "2024-12-06T01:50:43.416Z",
+          "updatedAt": "2024-12-07T00:50:42.964Z",
           "repositoryURL": "https://github.com/gothinkster/angular-realworld-example-app",
           "category": "frontend",
           "language": "TypeScript",
@@ -1512,7 +1512,7 @@
         },
         {
           "createdAt": "2021-02-13T09:14:23.382Z",
-          "updatedAt": "2024-12-05T12:50:42.302Z",
+          "updatedAt": "2024-12-06T10:50:45.752Z",
           "repositoryURL": "https://github.com/khaledosman/angular-realworld-example-app",
           "category": "frontend",
           "frontendEnvironment": "web",
@@ -1523,7 +1523,7 @@
         },
         {
           "createdAt": "2023-05-22T06:59:13.502Z",
-          "updatedAt": "2024-12-05T15:50:43.683Z",
+          "updatedAt": "2024-12-06T14:50:41.610Z",
           "repositoryURL": "https://github.com/AndyT2503/angular-conduit-signals",
           "category": "frontend",
           "frontendEnvironment": "web",
@@ -1534,7 +1534,7 @@
         },
         {
           "createdAt": "2024-02-20T20:46:16.160Z",
-          "updatedAt": "2024-12-05T23:50:42.651Z",
+          "updatedAt": "2024-12-06T22:50:41.746Z",
           "repositoryURL": "https://github.com/iancharlesdouglas/ng-realworld-ssr",
           "category": "frontend",
           "frontendEnvironment": "web",
@@ -1545,7 +1545,7 @@
         },
         {
           "createdAt": "2020-12-07T05:12:00.347Z",
-          "updatedAt": "2024-12-06T03:50:42.659Z",
+          "updatedAt": "2024-12-07T02:50:42.998Z",
           "repositoryURL": "https://github.com/stefanoslig/angular-ngrx-nx-realworld-example-app",
           "category": "frontend",
           "language": "TypeScript",
@@ -1557,7 +1557,7 @@
         },
         {
           "createdAt": "2020-12-07T02:21:02.664Z",
-          "updatedAt": "2024-12-06T03:50:42.197Z",
+          "updatedAt": "2024-12-07T02:50:42.473Z",
           "repositoryURL": "https://github.com/gothinkster/angularjs-realworld-example-app",
           "category": "frontend",
           "language": "JavaScript",
@@ -1568,7 +1568,7 @@
         },
         {
           "createdAt": "2020-12-07T05:31:21.039Z",
-          "updatedAt": "2024-12-06T04:50:41.757Z",
+          "updatedAt": "2024-12-07T02:50:45.389Z",
           "repositoryURL": "https://github.com/gothinkster/apprun-realworld-example-app",
           "category": "frontend",
           "language": "TypeScript",
@@ -1578,7 +1578,7 @@
         },
         {
           "createdAt": "2023-09-07T12:08:20.808Z",
-          "updatedAt": "2024-12-05T17:50:43.867Z",
+          "updatedAt": "2024-12-06T16:50:42.882Z",
           "repositoryURL": "https://github.com/joma1021/realworld-astro",
           "category": "frontend",
           "frontendEnvironment": "web",
@@ -1590,7 +1590,7 @@
         },
         {
           "createdAt": "2021-01-25T21:37:51.790Z",
-          "updatedAt": "2024-12-05T17:50:41.713Z",
+          "updatedAt": "2024-12-06T15:50:44.560Z",
           "repositoryURL": "https://github.com/JoeyMckenzie/BlazorConduit",
           "category": "frontend",
           "frontendEnvironment": "web",
@@ -1602,7 +1602,7 @@
         },
         {
           "createdAt": "2020-12-07T05:56:34.272Z",
-          "updatedAt": "2024-12-05T08:50:41.763Z",
+          "updatedAt": "2024-12-06T06:50:44.289Z",
           "repositoryURL": "https://github.com/gothinkster/crizmas-mvc-realworld-example-app",
           "category": "frontend",
           "language": "JavaScript",
@@ -1612,7 +1612,7 @@
         },
         {
           "createdAt": "2020-12-06T20:31:59.463Z",
-          "updatedAt": "2024-12-06T02:50:44.064Z",
+          "updatedAt": "2024-12-07T01:50:43.939Z",
           "repositoryURL": "https://github.com/rtfeldman/elm-spa-example",
           "category": "frontend",
           "language": "Elm",
@@ -1623,7 +1623,7 @@
         },
         {
           "createdAt": "2024-04-23T01:40:02.651Z",
-          "updatedAt": "2024-12-06T01:50:41.797Z",
+          "updatedAt": "2024-12-06T23:50:44.552Z",
           "repositoryURL": "https://github.com/dwayne/elm-conduit",
           "category": "frontend",
           "frontendEnvironment": "web",
@@ -1634,7 +1634,7 @@
         },
         {
           "createdAt": "2020-12-07T05:25:17.863Z",
-          "updatedAt": "2024-12-06T03:50:44.000Z",
+          "updatedAt": "2024-12-07T02:50:44.934Z",
           "repositoryURL": "https://github.com/gothinkster/ember-realworld",
           "category": "frontend",
           "language": "JavaScript",
@@ -1644,7 +1644,7 @@
         },
         {
           "createdAt": "2023-09-29T18:35:15.957Z",
-          "updatedAt": "2024-12-05T17:50:45.567Z",
+          "updatedAt": "2024-12-06T16:50:43.637Z",
           "repositoryURL": "https://github.com/Jaydeep0604/conduit",
           "category": "frontend",
           "frontendEnvironment": "mobile",
@@ -1655,7 +1655,7 @@
         },
         {
           "createdAt": "2020-12-07T02:14:50.763Z",
-          "updatedAt": "2024-12-06T03:50:41.575Z",
+          "updatedAt": "2024-12-07T01:50:45.668Z",
           "repositoryURL": "https://github.com/thomashoneyman/purescript-halogen-realworld",
           "category": "frontend",
           "language": "PureScript",
@@ -1665,7 +1665,7 @@
         },
         {
           "createdAt": "2021-01-26T22:20:27.825Z",
-          "updatedAt": "2024-12-05T23:50:43.336Z",
+          "updatedAt": "2024-12-06T22:50:42.403Z",
           "repositoryURL": "https://github.com/rlander/conduit",
           "category": "frontend",
           "frontendEnvironment": "web",
@@ -1677,7 +1677,7 @@
         },
         {
           "createdAt": "2020-12-07T05:44:41.354Z",
-          "updatedAt": "2024-12-06T04:50:43.270Z",
+          "updatedAt": "2024-12-07T03:50:43.596Z",
           "repositoryURL": "https://github.com/kwasniew/hyperapp-realworld-example-app",
           "category": "frontend",
           "language": "JavaScript",
@@ -1687,7 +1687,7 @@
         },
         {
           "createdAt": "2020-12-07T05:54:32.385Z",
-          "updatedAt": "2024-12-05T07:50:43.267Z",
+          "updatedAt": "2024-12-06T06:50:42.655Z",
           "repositoryURL": "https://github.com/cartonalexandre/imba-realworld-example-app",
           "category": "frontend",
           "language": "JavaScript",
@@ -1697,7 +1697,7 @@
         },
         {
           "createdAt": "2021-04-28T00:46:52.569Z",
-          "updatedAt": "2024-12-05T09:50:41.929Z",
+          "updatedAt": "2024-12-06T07:50:44.140Z",
           "repositoryURL": "https://github.com/brucou/realworld-kingly-svelte",
           "category": "frontend",
           "frontendEnvironment": "web",
@@ -1709,7 +1709,7 @@
         },
         {
           "createdAt": "2024-10-01T12:13:48.982Z",
-          "updatedAt": "2024-12-06T03:50:42.938Z",
+          "updatedAt": "2024-12-07T02:50:43.576Z",
           "repositoryURL": "https://github.com/EarlOfEgo/RealWorld-Kotlin-Multiplatform",
           "category": "frontend",
           "frontendEnvironment": "mobile",
@@ -1721,7 +1721,7 @@
         },
         {
           "createdAt": "2021-02-16T08:32:43.465Z",
-          "updatedAt": "2024-12-05T13:50:44.579Z",
+          "updatedAt": "2024-12-06T12:50:43.993Z",
           "repositoryURL": "https://github.com/rjaros/kvision-realworld-example-app",
           "category": "frontend",
           "frontendEnvironment": "web",
@@ -1732,7 +1732,7 @@
         },
         {
           "createdAt": "2021-04-20T04:02:32.542Z",
-          "updatedAt": "2024-12-05T21:50:43.517Z",
+          "updatedAt": "2024-12-06T20:50:42.410Z",
           "repositoryURL": "https://github.com/mint-lang/mint-realworld",
           "category": "frontend",
           "frontendEnvironment": "web",
@@ -1743,7 +1743,7 @@
         },
         {
           "createdAt": "2023-03-04T09:46:08.296Z",
-          "updatedAt": "2024-12-06T01:50:41.571Z",
+          "updatedAt": "2024-12-06T23:50:44.315Z",
           "repositoryURL": "https://github.com/girish54321/Conduit-SwiftUI",
           "category": "frontend",
           "frontendEnvironment": "mobile",
@@ -1755,7 +1755,7 @@
         },
         {
           "createdAt": "2020-12-07T05:52:42.767Z",
-          "updatedAt": "2024-12-05T07:50:42.070Z",
+          "updatedAt": "2024-12-07T04:50:43.638Z",
           "repositoryURL": "https://github.com/neomjs/neomjs-realworld-example-app",
           "category": "frontend",
           "language": "JavaScript",
@@ -1765,7 +1765,7 @@
         },
         {
           "createdAt": "2024-10-30T07:28:53.298Z",
-          "updatedAt": "2024-12-05T23:50:43.996Z",
+          "updatedAt": "2024-12-06T22:50:43.156Z",
           "repositoryURL": "https://github.com/yukicountry/realworld-nextjs-rsc",
           "category": "frontend",
           "frontendEnvironment": "web",
@@ -1777,7 +1777,7 @@
         },
         {
           "createdAt": "2020-12-07T05:33:18.727Z",
-          "updatedAt": "2024-12-06T04:50:42.171Z",
+          "updatedAt": "2024-12-07T02:50:45.781Z",
           "repositoryURL": "https://github.com/reck1ess/next-realworld-example-app",
           "category": "frontend",
           "language": "TypeScript",
@@ -1788,7 +1788,7 @@
         },
         {
           "createdAt": "2024-08-13T12:16:02.747Z",
-          "updatedAt": "2024-12-05T18:50:44.759Z",
+          "updatedAt": "2024-12-06T17:50:43.668Z",
           "repositoryURL": "https://github.com/salahadin-dinsafa/realworld-front",
           "category": "frontend",
           "frontendEnvironment": "web",
@@ -1800,7 +1800,7 @@
         },
         {
           "createdAt": "2021-01-26T09:02:59.818Z",
-          "updatedAt": "2024-12-05T07:50:42.634Z",
+          "updatedAt": "2024-12-07T04:50:44.234Z",
           "repositoryURL": "https://github.com/devJang/nuxt-realworld",
           "category": "frontend",
           "frontendEnvironment": "web",
@@ -1812,7 +1812,7 @@
         },
         {
           "createdAt": "2023-11-07T11:39:53.615Z",
-          "updatedAt": "2024-12-05T21:50:43.222Z",
+          "updatedAt": "2024-12-06T20:50:42.114Z",
           "repositoryURL": "https://github.com/k0kishima/nuxt3-realworld-example-app",
           "category": "frontend",
           "frontendEnvironment": "web",
@@ -1823,7 +1823,7 @@
         },
         {
           "createdAt": "2023-06-28T16:19:06.191Z",
-          "updatedAt": "2024-12-05T20:50:45.752Z",
+          "updatedAt": "2024-12-06T19:50:44.780Z",
           "repositoryURL": "https://github.com/MR-Mostafa/nuxt3-realworld-example-app",
           "category": "frontend",
           "frontendEnvironment": "web",
@@ -1835,7 +1835,7 @@
         },
         {
           "createdAt": "2021-05-28T08:28:32.407Z",
-          "updatedAt": "2024-12-05T16:50:42.625Z",
+          "updatedAt": "2024-12-06T15:50:41.677Z",
           "repositoryURL": "https://github.com/Coding-Dodo/owl-realworld-app",
           "category": "frontend",
           "frontendEnvironment": "web",
@@ -1846,7 +1846,7 @@
         },
         {
           "createdAt": "2021-01-25T08:14:49.919Z",
-          "updatedAt": "2024-12-06T02:50:43.239Z",
+          "updatedAt": "2024-12-07T01:50:43.309Z",
           "repositoryURL": "https://github.com/mutoe/preact-realworld-example-app",
           "category": "frontend",
           "frontendEnvironment": "web",
@@ -1857,7 +1857,7 @@
         },
         {
           "createdAt": "2023-09-07T12:35:12.481Z",
-          "updatedAt": "2024-12-05T17:50:45.363Z",
+          "updatedAt": "2024-12-06T16:50:43.389Z",
           "repositoryURL": "https://github.com/joma1021/realworld-qwik",
           "category": "frontend",
           "frontendEnvironment": "web",
@@ -1868,7 +1868,7 @@
         },
         {
           "createdAt": "2020-12-07T02:17:01.153Z",
-          "updatedAt": "2024-12-06T03:50:41.776Z",
+          "updatedAt": "2024-12-07T01:50:45.869Z",
           "repositoryURL": "https://github.com/jacekschae/conduit",
           "category": "frontend",
           "language": "ClojureScript",
@@ -1878,7 +1878,7 @@
         },
         {
           "createdAt": "2021-08-13T17:48:50.992Z",
-          "updatedAt": "2024-12-05T10:50:45.493Z",
+          "updatedAt": "2024-12-06T09:50:43.609Z",
           "repositoryURL": "https://github.com/angelguzmaning/ts-redux-react-realworld-example-app",
           "category": "frontend",
           "frontendEnvironment": "web",
@@ -1890,7 +1890,7 @@
         },
         {
           "createdAt": "2021-01-25T22:11:53.080Z",
-          "updatedAt": "2024-12-05T19:50:45.104Z",
+          "updatedAt": "2024-12-06T18:50:44.072Z",
           "repositoryURL": "https://github.com/jonasbuntinx/purescript-react-realworld",
           "category": "frontend",
           "frontendEnvironment": "web",
@@ -1901,7 +1901,7 @@
         },
         {
           "createdAt": "2022-05-19T15:53:40.029Z",
-          "updatedAt": "2024-12-05T06:50:44.169Z",
+          "updatedAt": "2024-12-07T03:50:46.361Z",
           "repositoryURL": "https://github.com/Kisilov-Vadim/realworld",
           "category": "frontend",
           "frontendEnvironment": "mobile",
@@ -1914,7 +1914,7 @@
         },
         {
           "createdAt": "2020-12-16T08:44:19.577Z",
-          "updatedAt": "2024-12-06T00:50:43.276Z",
+          "updatedAt": "2024-12-06T23:50:42.177Z",
           "repositoryURL": "https://github.com/flexsurfer/conduitrn",
           "category": "frontend",
           "frontendEnvironment": "mobile",
@@ -1926,7 +1926,7 @@
         },
         {
           "createdAt": "2022-10-03T07:41:24.105Z",
-          "updatedAt": "2024-12-05T15:50:43.432Z",
+          "updatedAt": "2024-12-06T13:50:44.835Z",
           "repositoryURL": "https://github.com/antonTykhomyrovWix/realworld",
           "category": "frontend",
           "frontendEnvironment": "mobile",
@@ -1939,7 +1939,7 @@
         },
         {
           "createdAt": "2023-06-13T13:10:59.910Z",
-          "updatedAt": "2024-12-06T03:50:41.964Z",
+          "updatedAt": "2024-12-07T01:50:46.059Z",
           "repositoryURL": "https://github.com/yurisldk/realworld-react-fsd",
           "category": "frontend",
           "frontendEnvironment": "web",
@@ -1954,7 +1954,7 @@
         },
         {
           "createdAt": "2023-02-10T08:10:10.679Z",
-          "updatedAt": "2024-12-05T21:50:41.540Z",
+          "updatedAt": "2024-12-06T19:50:45.446Z",
           "repositoryURL": "https://github.com/sukam09/react-recoil-realworld-example-app",
           "category": "frontend",
           "frontendEnvironment": "web",
@@ -1966,7 +1966,7 @@
         },
         {
           "createdAt": "2021-02-13T09:15:06.641Z",
-          "updatedAt": "2024-12-05T12:50:43.188Z",
+          "updatedAt": "2024-12-06T11:50:42.384Z",
           "repositoryURL": "https://github.com/khaledosman/react-redux-realworld-example-app",
           "category": "frontend",
           "frontendEnvironment": "web",
@@ -1978,7 +1978,7 @@
         },
         {
           "createdAt": "2021-06-21T13:37:15.683Z",
-          "updatedAt": "2024-12-06T00:50:44.336Z",
+          "updatedAt": "2024-12-06T23:50:43.196Z",
           "repositoryURL": "https://github.com/jihchi/rescript-react-realworld-example-app",
           "category": "frontend",
           "frontendEnvironment": "web",
@@ -1990,7 +1990,7 @@
         },
         {
           "createdAt": "2022-01-27T22:09:52.032Z",
-          "updatedAt": "2024-12-05T06:50:43.950Z",
+          "updatedAt": "2024-12-07T03:50:46.162Z",
           "repositoryURL": "https://github.com/statiumjs/realworld-example",
           "category": "frontend",
           "frontendEnvironment": "web",
@@ -2002,7 +2002,7 @@
         },
         {
           "createdAt": "2024-09-08T09:54:46.363Z",
-          "updatedAt": "2024-12-05T23:50:43.526Z",
+          "updatedAt": "2024-12-06T22:50:42.633Z",
           "repositoryURL": "https://github.com/jiheon788/react-query-realworld",
           "category": "frontend",
           "frontendEnvironment": "web",
@@ -2015,7 +2015,7 @@
         },
         {
           "createdAt": "2021-07-30T11:06:09.356Z",
-          "updatedAt": "2024-12-05T20:50:44.995Z",
+          "updatedAt": "2024-12-06T19:50:44.077Z",
           "repositoryURL": "https://github.com/romansndlr/react-vite-realworld-example-app",
           "category": "frontend",
           "frontendEnvironment": "web",
@@ -2027,7 +2027,7 @@
         },
         {
           "createdAt": "2022-10-21T11:05:46.243Z",
-          "updatedAt": "2024-12-06T01:50:42.066Z",
+          "updatedAt": "2024-12-06T23:50:44.849Z",
           "repositoryURL": "https://github.com/refinedev/real-world-example",
           "category": "frontend",
           "frontendEnvironment": "web",
@@ -2039,7 +2039,7 @@
         },
         {
           "createdAt": "2023-09-07T12:22:02.133Z",
-          "updatedAt": "2024-12-05T17:50:44.080Z",
+          "updatedAt": "2024-12-06T16:50:43.133Z",
           "repositoryURL": "https://github.com/joma1021/realworld-remix",
           "category": "frontend",
           "frontendEnvironment": "web",
@@ -2050,7 +2050,7 @@
         },
         {
           "createdAt": "2022-04-20T06:05:02.696Z",
-          "updatedAt": "2024-12-05T12:50:44.147Z",
+          "updatedAt": "2024-12-06T11:50:43.409Z",
           "repositoryURL": "https://github.com/CHRehan/Conduit",
           "category": "frontend",
           "frontendEnvironment": "mobile",
@@ -2063,7 +2063,7 @@
         },
         {
           "createdAt": "2021-02-16T01:34:15.021Z",
-          "updatedAt": "2024-12-05T07:50:44.188Z",
+          "updatedAt": "2024-12-06T06:50:43.576Z",
           "repositoryURL": "https://github.com/iq3addLi/riot_realworld_example_app",
           "category": "frontend",
           "frontendEnvironment": "web",
@@ -2074,7 +2074,7 @@
         },
         {
           "createdAt": "2020-12-07T05:47:48.675Z",
-          "updatedAt": "2024-12-05T06:50:45.376Z",
+          "updatedAt": "2024-12-07T04:50:42.019Z",
           "repositoryURL": "https://github.com/ecomfe/san-realworld-app",
           "category": "frontend",
           "language": "JavaScript",
@@ -2084,7 +2084,7 @@
         },
         {
           "createdAt": "2021-01-23T23:24:20.945Z",
-          "updatedAt": "2024-12-05T08:50:41.506Z",
+          "updatedAt": "2024-12-06T06:50:44.023Z",
           "repositoryURL": "https://github.com/seed-rs/seed-rs-realworld",
           "category": "frontend",
           "frontendEnvironment": "web",
@@ -2095,7 +2095,7 @@
         },
         {
           "createdAt": "2020-12-22T05:16:42.953Z",
-          "updatedAt": "2024-12-05T22:50:45.145Z",
+          "updatedAt": "2024-12-06T21:50:43.741Z",
           "repositoryURL": "https://github.com/ryansolid/solid-realworld",
           "category": "frontend",
           "frontendEnvironment": "web",
@@ -2106,7 +2106,7 @@
         },
         {
           "createdAt": "2023-06-20T09:55:52.689Z",
-          "updatedAt": "2024-12-05T08:50:42.467Z",
+          "updatedAt": "2024-12-06T07:50:41.388Z",
           "repositoryURL": "https://github.com/stevej2608/solid-realworld",
           "category": "frontend",
           "frontendEnvironment": "web",
@@ -2117,7 +2117,7 @@
         },
         {
           "createdAt": "2021-02-13T09:15:33.489Z",
-          "updatedAt": "2024-12-05T12:50:43.587Z",
+          "updatedAt": "2024-12-06T11:50:42.713Z",
           "repositoryURL": "https://github.com/khaledosman/stencil-realworld-app",
           "category": "frontend",
           "frontendEnvironment": "web",
@@ -2128,7 +2128,7 @@
         },
         {
           "createdAt": "2020-12-06T20:36:27.840Z",
-          "updatedAt": "2024-12-06T03:50:41.364Z",
+          "updatedAt": "2024-12-07T01:50:45.446Z",
           "repositoryURL": "https://github.com/sveltejs/realworld",
           "category": "frontend",
           "frontendEnvironment": "web",
@@ -2140,7 +2140,7 @@
         },
         {
           "createdAt": "2021-03-09T23:12:32.923Z",
-          "updatedAt": "2024-12-05T08:50:42.269Z",
+          "updatedAt": "2024-12-06T06:50:44.808Z",
           "repositoryURL": "https://github.com/mits-gossau/event-driven-web-components-realworld-example-app",
           "category": "frontend",
           "frontendEnvironment": "web",
@@ -2153,7 +2153,7 @@
         },
         {
           "createdAt": "2024-04-16T05:07:45.055Z",
-          "updatedAt": "2024-12-05T18:50:42.599Z",
+          "updatedAt": "2024-12-06T17:50:41.624Z",
           "repositoryURL": "https://github.com/bogdan0083/nuxt3-realworld-app",
           "category": "frontend",
           "frontendEnvironment": "web",
@@ -2165,7 +2165,7 @@
         },
         {
           "createdAt": "2023-07-27T14:31:06.946Z",
-          "updatedAt": "2024-12-05T12:50:42.715Z",
+          "updatedAt": "2024-12-06T11:50:41.915Z",
           "repositoryURL": "https://github.com/niyaco/vue3-realworld-app",
           "category": "frontend",
           "frontendEnvironment": "web",
@@ -2179,7 +2179,7 @@
         },
         {
           "createdAt": "2021-01-26T08:35:29.443Z",
-          "updatedAt": "2024-12-06T04:50:44.303Z",
+          "updatedAt": "2024-12-07T03:50:45.116Z",
           "repositoryURL": "https://github.com/mutoe/vue3-realworld-example-app",
           "category": "frontend",
           "frontendEnvironment": "web",
@@ -2191,7 +2191,7 @@
         },
         {
           "createdAt": "2020-12-06T20:26:58.015Z",
-          "updatedAt": "2024-12-06T02:50:41.394Z",
+          "updatedAt": "2024-12-07T00:50:44.450Z",
           "repositoryURL": "https://github.com/gothinkster/vue-realworld-example-app",
           "category": "frontend",
           "language": "JavaScript",
@@ -2203,7 +2203,7 @@
         },
         {
           "createdAt": "2021-02-13T12:45:52.552Z",
-          "updatedAt": "2024-12-05T19:50:44.183Z",
+          "updatedAt": "2024-12-06T18:50:43.116Z",
           "repositoryURL": "https://github.com/khaledosman/vue-realworld-example-app",
           "category": "frontend",
           "frontendEnvironment": "web",
@@ -2215,7 +2215,7 @@
         },
         {
           "createdAt": "2021-07-26T18:23:49.065Z",
-          "updatedAt": "2024-12-05T18:50:41.858Z",
+          "updatedAt": "2024-12-06T16:50:44.109Z",
           "repositoryURL": "https://github.com/AlexBrohshtut/vue-ts-realworld-app",
           "category": "frontend",
           "frontendEnvironment": "web",
@@ -2227,7 +2227,7 @@
         },
         {
           "createdAt": "2020-12-07T05:14:52.639Z",
-          "updatedAt": "2024-12-06T03:50:43.793Z",
+          "updatedAt": "2024-12-07T02:50:44.689Z",
           "repositoryURL": "https://github.com/jetli/rust-yew-realworld-example-app",
           "category": "frontend",
           "language": "Rust",
@@ -2238,7 +2238,7 @@
         },
         {
           "createdAt": "2022-12-30T00:55:44.671Z",
-          "updatedAt": "2024-12-05T20:50:42.665Z",
+          "updatedAt": "2024-12-06T18:50:44.266Z",
           "repositoryURL": "https://github.com/Bechma/realworld-actix-fullstack",
           "category": "fullstack",
           "frontendEnvironment": "web",
@@ -2251,7 +2251,7 @@
         },
         {
           "createdAt": "2024-05-10T14:07:04.390Z",
-          "updatedAt": "2024-12-05T16:50:44.677Z",
+          "updatedAt": "2024-12-06T15:50:43.589Z",
           "repositoryURL": "https://github.com/thanhdev/realworld-django-rest-framework-angular",
           "category": "fullstack",
           "frontendEnvironment": "web",
@@ -2263,7 +2263,7 @@
         },
         {
           "createdAt": "2023-02-22T03:48:08.408Z",
-          "updatedAt": "2024-12-05T18:50:43.921Z",
+          "updatedAt": "2024-12-06T17:50:42.891Z",
           "repositoryURL": "https://github.com/team-alembic/realworld",
           "category": "fullstack",
           "frontendEnvironment": "web",
@@ -2275,7 +2275,7 @@
         },
         {
           "createdAt": "2021-02-16T07:55:03.474Z",
-          "updatedAt": "2024-12-05T13:50:43.300Z",
+          "updatedAt": "2024-12-06T12:50:42.582Z",
           "repositoryURL": "https://github.com/remast/gobuff_realworld_example_app",
           "category": "fullstack",
           "frontendEnvironment": "web",
@@ -2286,7 +2286,7 @@
         },
         {
           "createdAt": "2023-09-21T23:26:24.258Z",
-          "updatedAt": "2024-12-05T10:50:43.381Z",
+          "updatedAt": "2024-12-06T09:50:41.560Z",
           "repositoryURL": "https://github.com/hesxenon/realworld-htmx",
           "category": "fullstack",
           "frontendEnvironment": "web",
@@ -2300,7 +2300,7 @@
         },
         {
           "createdAt": "2024-06-14T18:28:01.116Z",
-          "updatedAt": "2024-12-05T14:50:43.129Z",
+          "updatedAt": "2024-12-06T13:50:41.999Z",
           "repositoryURL": "https://github.com/hummusonrails/realworld-couchbase-ruby-orm/tree/main",
           "category": "fullstack",
           "frontendEnvironment": "web",
@@ -2312,7 +2312,7 @@
         },
         {
           "createdAt": "2022-01-30T07:49:22.497Z",
-          "updatedAt": "2024-12-05T20:50:45.544Z",
+          "updatedAt": "2024-12-06T19:50:44.555Z",
           "repositoryURL": "https://github.com/danjac/realworld",
           "category": "fullstack",
           "frontendEnvironment": "web",
@@ -2325,7 +2325,7 @@
         },
         {
           "createdAt": "2021-01-26T08:16:54.178Z",
-          "updatedAt": "2024-12-06T04:50:43.756Z",
+          "updatedAt": "2024-12-07T03:50:44.586Z",
           "repositoryURL": "https://github.com/drashland/deno-drash-realworld-example-app",
           "category": "fullstack",
           "frontendEnvironment": "web",
@@ -2338,7 +2338,7 @@
         },
         {
           "createdAt": "2021-07-05T08:36:52.786Z",
-          "updatedAt": "2024-12-05T18:50:41.608Z",
+          "updatedAt": "2024-12-06T16:50:43.851Z",
           "repositoryURL": "https://github.com/cirosantilli/node-express-sequelize-nextjs-realworld-example-app",
           "category": "fullstack",
           "frontendEnvironment": "web",
@@ -2351,7 +2351,7 @@
         },
         {
           "createdAt": "2022-07-26T19:12:55.035Z",
-          "updatedAt": "2024-12-05T06:50:45.124Z",
+          "updatedAt": "2024-12-07T04:50:41.763Z",
           "repositoryURL": "https://github.com/TonyMckes/conduit-realworld-example-app",
           "category": "fullstack",
           "frontendEnvironment": "web",
@@ -2364,7 +2364,7 @@
         },
         {
           "createdAt": "2023-11-09T18:31:38.791Z",
-          "updatedAt": "2024-12-05T08:50:43.125Z",
+          "updatedAt": "2024-12-06T07:50:42.048Z",
           "repositoryURL": "https://github.com/agmadt/realworld-fiber-htmx",
           "category": "fullstack",
           "frontendEnvironment": "web",
@@ -2376,7 +2376,7 @@
         },
         {
           "createdAt": "2021-03-07T17:43:40.900Z",
-          "updatedAt": "2024-12-05T15:50:45.997Z",
+          "updatedAt": "2024-12-06T14:50:43.939Z",
           "repositoryURL": "https://github.com/andrewMacmurray/realworld-hasura",
           "category": "fullstack",
           "frontendEnvironment": "web",
@@ -2387,7 +2387,7 @@
         },
         {
           "createdAt": "2021-02-16T08:34:21.036Z",
-          "updatedAt": "2024-12-05T14:50:44.130Z",
+          "updatedAt": "2024-12-06T13:50:42.998Z",
           "repositoryURL": "https://github.com/rjaros/kvision-realworld-example-app-fullstack",
           "category": "fullstack",
           "frontendEnvironment": "web",
@@ -2399,7 +2399,7 @@
         },
         {
           "createdAt": "2023-11-09T18:31:09.512Z",
-          "updatedAt": "2024-12-05T08:50:42.880Z",
+          "updatedAt": "2024-12-06T07:50:41.829Z",
           "repositoryURL": "https://github.com/agmadt/realworld-laravel-htmx",
           "category": "fullstack",
           "frontendEnvironment": "web",
@@ -2411,7 +2411,7 @@
         },
         {
           "createdAt": "2021-05-19T04:47:17.729Z",
-          "updatedAt": "2024-12-05T12:50:41.570Z",
+          "updatedAt": "2024-12-06T10:50:45.047Z",
           "repositoryURL": "https://github.com/sawirricardo/realworld-tall-app",
           "category": "fullstack",
           "frontendEnvironment": "web",
@@ -2424,7 +2424,7 @@
         },
         {
           "createdAt": "2022-04-20T13:41:52.733Z",
-          "updatedAt": "2024-12-05T19:50:41.499Z",
+          "updatedAt": "2024-12-06T17:50:44.093Z",
           "repositoryURL": "https://github.com/sawirricardo/realworld-laravel-inertia-vue",
           "category": "fullstack",
           "frontendEnvironment": "web",
@@ -2437,7 +2437,7 @@
         },
         {
           "createdAt": "2022-05-23T11:44:52.416Z",
-          "updatedAt": "2024-12-05T10:50:43.601Z",
+          "updatedAt": "2024-12-06T09:50:41.788Z",
           "repositoryURL": "https://github.com/sawirricardo/realworld-laravel-inertia-vue-ts",
           "category": "fullstack",
           "frontendEnvironment": "web",
@@ -2450,7 +2450,7 @@
         },
         {
           "createdAt": "2020-12-07T07:17:28.811Z",
-          "updatedAt": "2024-12-06T00:50:44.728Z",
+          "updatedAt": "2024-12-06T23:50:43.515Z",
           "repositoryURL": "https://github.com/layrjs/react-layr-realworld-example-app",
           "category": "fullstack",
           "frontendEnvironment": "web",
@@ -2462,7 +2462,7 @@
         },
         {
           "createdAt": "2023-08-07T22:27:29.722Z",
-          "updatedAt": "2024-12-05T23:50:42.866Z",
+          "updatedAt": "2024-12-06T22:50:41.938Z",
           "repositoryURL": "https://github.com/Bechma/realworld-leptos/",
           "category": "fullstack",
           "frontendEnvironment": "web",
@@ -2475,7 +2475,7 @@
         },
         {
           "createdAt": "2022-02-18T17:41:10.525Z",
-          "updatedAt": "2024-12-05T16:50:44.312Z",
+          "updatedAt": "2024-12-06T15:50:43.310Z",
           "repositoryURL": "https://github.com/peernohell/meteor-realworld-example-app",
           "category": "fullstack",
           "frontendEnvironment": "web",
@@ -2488,7 +2488,7 @@
         },
         {
           "createdAt": "2023-01-23T10:46:39.646Z",
-          "updatedAt": "2024-12-05T17:50:42.377Z",
+          "updatedAt": "2024-12-06T16:50:41.394Z",
           "repositoryURL": "https://github.com/makafsal/conduit",
           "category": "fullstack",
           "frontendEnvironment": "web",
@@ -2503,7 +2503,7 @@
         },
         {
           "createdAt": "2022-08-02T17:40:30.112Z",
-          "updatedAt": "2024-12-05T10:50:44.555Z",
+          "updatedAt": "2024-12-06T09:50:42.713Z",
           "repositoryURL": "https://github.com/jimleestone/next-real-world",
           "category": "fullstack",
           "frontendEnvironment": "web",
@@ -2518,7 +2518,7 @@
         },
         {
           "createdAt": "2023-12-10T09:21:27.013Z",
-          "updatedAt": "2024-12-06T04:50:43.477Z",
+          "updatedAt": "2024-12-07T03:50:44.355Z",
           "repositoryURL": "https://github.com/likui628/next-fullstack-realworld-app",
           "category": "fullstack",
           "frontendEnvironment": "web",
@@ -2533,7 +2533,7 @@
         },
         {
           "createdAt": "2023-08-10T20:04:03.934Z",
-          "updatedAt": "2024-12-05T22:50:43.233Z",
+          "updatedAt": "2024-12-06T21:50:41.801Z",
           "repositoryURL": "https://github.com/gutentag2012/realworld-nextjs-trpc-prisma",
           "category": "fullstack",
           "frontendEnvironment": "web",
@@ -2546,7 +2546,7 @@
         },
         {
           "createdAt": "2021-08-21T13:23:30.979Z",
-          "updatedAt": "2024-12-05T18:50:42.386Z",
+          "updatedAt": "2024-12-06T16:50:44.685Z",
           "repositoryURL": "https://github.com/rakkasjs/rakkas-realworld",
           "category": "fullstack",
           "frontendEnvironment": "web",
@@ -2557,7 +2557,7 @@
         },
         {
           "createdAt": "2022-06-19T03:45:25.840Z",
-          "updatedAt": "2024-12-06T00:50:42.618Z",
+          "updatedAt": "2024-12-06T23:50:41.428Z",
           "repositoryURL": "https://github.com/TristanWYL/redwood-realworld-example-app",
           "category": "fullstack",
           "frontendEnvironment": "web",
@@ -2568,7 +2568,7 @@
         },
         {
           "createdAt": "2024-06-11T16:35:01.135Z",
-          "updatedAt": "2024-12-05T09:50:42.448Z",
+          "updatedAt": "2024-12-06T08:50:42.598Z",
           "repositoryURL": "https://github.com/hummusonrails/realworld-yew",
           "category": "fullstack",
           "frontendEnvironment": "web",
@@ -2580,7 +2580,7 @@
         },
         {
           "createdAt": "2021-02-16T07:59:22.375Z",
-          "updatedAt": "2024-12-05T13:50:44.326Z",
+          "updatedAt": "2024-12-06T12:50:43.664Z",
           "repositoryURL": "https://github.com/lifeiscontent/realworld",
           "category": "fullstack",
           "frontendEnvironment": "web",
@@ -2594,7 +2594,7 @@
     },
     {
       "createdAt": "2021-02-17T05:42:08.665Z",
-      "updatedAt": "2024-12-06T05:50:14.759Z",
+      "updatedAt": "2024-12-07T05:50:13.782Z",
       "slug": "todomvc",
       "name": "TodoMVC",
       "description": "A to-do application implemented using MV* concepts.",
@@ -2620,7 +2620,7 @@
       "implementations": [
         {
           "createdAt": "2021-01-01T00:00:00.000Z",
-          "updatedAt": "2024-12-05T13:50:44.814Z",
+          "updatedAt": "2024-12-06T12:50:44.238Z",
           "repositoryURL": "https://github.com/tastejs/todomvc/tree/master/examples/angular2",
           "category": "frontend",
           "frontendEnvironment": "web",
@@ -2632,7 +2632,7 @@
         },
         {
           "createdAt": "2021-01-01T00:00:00.000Z",
-          "updatedAt": "2024-12-05T13:50:42.133Z",
+          "updatedAt": "2024-12-06T11:50:45.142Z",
           "repositoryURL": "https://github.com/tastejs/todomvc/tree/master/examples/aurelia",
           "category": "frontend",
           "frontendEnvironment": "web",
@@ -2643,7 +2643,7 @@
         },
         {
           "createdAt": "2021-01-01T00:00:00.000Z",
-          "updatedAt": "2024-12-05T22:50:43.037Z",
+          "updatedAt": "2024-12-06T21:50:41.541Z",
           "repositoryURL": "https://github.com/tastejs/todomvc/tree/master/examples/backbone",
           "category": "frontend",
           "frontendEnvironment": "web",
@@ -2654,7 +2654,7 @@
         },
         {
           "createdAt": "2021-01-01T00:00:00.000Z",
-          "updatedAt": "2024-12-05T15:50:45.782Z",
+          "updatedAt": "2024-12-06T14:50:43.708Z",
           "repositoryURL": "https://github.com/tastejs/todomvc/tree/master/examples/knockback",
           "category": "frontend",
           "frontendEnvironment": "web",
@@ -2667,7 +2667,7 @@
         },
         {
           "createdAt": "2021-01-01T00:00:00.000Z",
-          "updatedAt": "2024-12-05T14:50:41.761Z",
+          "updatedAt": "2024-12-06T12:50:44.490Z",
           "repositoryURL": "https://github.com/tastejs/todomvc/tree/master/examples/backbone_marionette",
           "category": "frontend",
           "frontendEnvironment": "web",
@@ -2679,7 +2679,7 @@
         },
         {
           "createdAt": "2021-01-01T00:00:00.000Z",
-          "updatedAt": "2024-12-05T14:50:42.074Z",
+          "updatedAt": "2024-12-06T12:50:44.758Z",
           "repositoryURL": "https://github.com/ThoughtWorksInc/todo",
           "category": "frontend",
           "frontendEnvironment": "web",
@@ -2690,7 +2690,7 @@
         },
         {
           "createdAt": "2021-01-01T00:00:00.000Z",
-          "updatedAt": "2024-12-05T14:50:42.349Z",
+          "updatedAt": "2024-12-06T12:50:45.037Z",
           "repositoryURL": "https://github.com/tastejs/todomvc/tree/master/examples/dojo",
           "category": "frontend",
           "frontendEnvironment": "web",
@@ -2701,7 +2701,7 @@
         },
         {
           "createdAt": "2021-01-01T00:00:00.000Z",
-          "updatedAt": "2024-12-05T14:50:43.557Z",
+          "updatedAt": "2024-12-06T13:50:42.513Z",
           "repositoryURL": "https://github.com/evancz/elm-todomvc",
           "category": "frontend",
           "frontendEnvironment": "web",
@@ -2712,7 +2712,7 @@
         },
         {
           "createdAt": "2024-06-19T10:57:00.848Z",
-          "updatedAt": "2024-12-05T12:50:42.016Z",
+          "updatedAt": "2024-12-06T10:50:45.454Z",
           "repositoryURL": "https://github.com/dwayne/elm-todos",
           "category": "frontend",
           "frontendEnvironment": "web",
@@ -2723,7 +2723,7 @@
         },
         {
           "createdAt": "2021-01-01T00:00:00.000Z",
-          "updatedAt": "2024-12-05T14:50:43.891Z",
+          "updatedAt": "2024-12-06T13:50:42.791Z",
           "repositoryURL": "https://github.com/tastejs/todomvc/tree/master/examples/emberjs",
           "category": "frontend",
           "frontendEnvironment": "web",
@@ -2734,7 +2734,7 @@
         },
         {
           "createdAt": "2021-01-01T00:00:00.000Z",
-          "updatedAt": "2024-12-05T15:50:45.265Z",
+          "updatedAt": "2024-12-06T14:50:43.116Z",
           "repositoryURL": "https://github.com/tastejs/todomvc/tree/master/examples/jquery",
           "category": "frontend",
           "frontendEnvironment": "web",
@@ -2745,7 +2745,7 @@
         },
         {
           "createdAt": "2021-01-01T00:00:00.000Z",
-          "updatedAt": "2024-12-05T15:50:46.263Z",
+          "updatedAt": "2024-12-06T14:50:44.297Z",
           "repositoryURL": "https://github.com/tastejs/todomvc/tree/master/examples/knockoutjs",
           "category": "frontend",
           "frontendEnvironment": "web",
@@ -2756,7 +2756,7 @@
         },
         {
           "createdAt": "2021-01-01T00:00:00.000Z",
-          "updatedAt": "2024-12-05T16:50:41.521Z",
+          "updatedAt": "2024-12-06T14:50:44.578Z",
           "repositoryURL": "https://github.com/tastejs/todomvc/tree/master/examples/mithril",
           "category": "frontend",
           "frontendEnvironment": "web",
@@ -2768,7 +2768,7 @@
         },
         {
           "createdAt": "2021-01-01T00:00:00.000Z",
-          "updatedAt": "2024-12-05T16:50:42.070Z",
+          "updatedAt": "2024-12-06T14:50:45.171Z",
           "repositoryURL": "https://github.com/tastejs/todomvc/tree/master/examples/react",
           "category": "frontend",
           "frontendEnvironment": "web",
@@ -2780,7 +2780,7 @@
         },
         {
           "createdAt": "2021-01-01T00:00:00.000Z",
-          "updatedAt": "2024-12-05T17:50:43.626Z",
+          "updatedAt": "2024-12-06T16:50:42.631Z",
           "repositoryURL": "https://github.com/tastejs/todomvc/tree/master/examples/typescript-react",
           "category": "frontend",
           "frontendEnvironment": "web",
@@ -2791,7 +2791,7 @@
         },
         {
           "createdAt": "2021-01-01T00:00:00.000Z",
-          "updatedAt": "2024-12-05T16:50:42.900Z",
+          "updatedAt": "2024-12-06T15:50:41.956Z",
           "repositoryURL": "https://github.com/tastejs/todomvc/tree/master/examples/react-hooks",
           "category": "frontend",
           "frontendEnvironment": "web",
@@ -2802,7 +2802,7 @@
         },
         {
           "createdAt": "2021-01-01T00:00:00.000Z",
-          "updatedAt": "2024-12-05T16:50:43.205Z",
+          "updatedAt": "2024-12-06T15:50:42.216Z",
           "repositoryURL": "https://github.com/tastejs/todomvc/tree/master/examples/reagent",
           "category": "frontend",
           "frontendEnvironment": "web",
@@ -2814,7 +2814,7 @@
         },
         {
           "createdAt": "2021-01-01T00:00:00.000Z",
-          "updatedAt": "2024-12-05T16:50:44.907Z",
+          "updatedAt": "2024-12-06T15:50:43.855Z",
           "repositoryURL": "https://github.com/tastejs/todomvc/tree/master/examples/riotjs",
           "category": "frontend",
           "frontendEnvironment": "web",
@@ -2826,7 +2826,7 @@
         },
         {
           "createdAt": "2021-01-01T00:00:00.000Z",
-          "updatedAt": "2024-12-05T09:50:43.907Z",
+          "updatedAt": "2024-12-06T08:50:44.075Z",
           "repositoryURL": "https://github.com/tastejs/todomvc/tree/master/examples/scalajs-react",
           "category": "frontend",
           "frontendEnvironment": "web",
@@ -2838,7 +2838,7 @@
         },
         {
           "createdAt": "2021-01-01T00:00:00.000Z",
-          "updatedAt": "2024-12-05T18:50:43.055Z",
+          "updatedAt": "2024-12-06T17:50:42.072Z",
           "repositoryURL": "https://github.com/tastejs/todomvc/tree/master/examples/vanillajs",
           "category": "frontend",
           "frontendEnvironment": "web",
@@ -2849,7 +2849,7 @@
         },
         {
           "createdAt": "2021-01-01T00:00:00.000Z",
-          "updatedAt": "2024-12-05T18:50:43.639Z",
+          "updatedAt": "2024-12-06T17:50:42.640Z",
           "repositoryURL": "https://github.com/tastejs/todomvc/tree/master/examples/vanilla-es6",
           "category": "frontend",
           "frontendEnvironment": "web",
@@ -2860,7 +2860,7 @@
         },
         {
           "createdAt": "2021-01-01T00:00:00.000Z",
-          "updatedAt": "2024-12-05T18:50:44.173Z",
+          "updatedAt": "2024-12-06T17:50:43.136Z",
           "repositoryURL": "https://github.com/tastejs/todomvc/tree/master/examples/vue",
           "category": "frontend",
           "frontendEnvironment": "web",
